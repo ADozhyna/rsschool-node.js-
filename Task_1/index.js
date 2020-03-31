@@ -9,13 +9,13 @@ function init() {
   let readStream;
   let writeStream;
 
-  if (program.input === '') {
+  if (program.input === undefined) {
     readStream = process.stdin;
   } else {
     readStream = fs.createReadStream(program.input);
   }
 
-  if (program.output === '') {
+  if (program.output === undefined) {
     writeStream = process.stdout;
   } else {
     writeStream = fs.createWriteStream(program.output, { flags: 'a' });
