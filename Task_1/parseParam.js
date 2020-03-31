@@ -1,5 +1,4 @@
 const { program } = require('commander');
-const path = require('path');
 
 function parse() {
   program
@@ -17,9 +16,6 @@ function parse() {
     console.error('shift should be number');
     throw new Error('bad shift');
   }
-
-  program.input = path.resolve(__dirname, program.input);
-  program.output = path.resolve(__dirname, program.output);
 
   return program;
 }
