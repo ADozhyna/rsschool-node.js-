@@ -1,5 +1,6 @@
 let users = require('./data').users;
 const User = require('./user.model');
+const taskservice = require('../tasks/task.service');
 
 const getAll = async () => {
   return users;
@@ -25,6 +26,7 @@ const updateUser = async (id, user) => {
 
 const deleteUser = async id => {
   users = users.filter(user => user.id !== id);
+  taskservice.nullUser(id);
   return null;
 };
 

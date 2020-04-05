@@ -1,5 +1,6 @@
 let boards = require('./data').boards;
 const Board = require('./board.model');
+const taskService = require('../tasks/task.service');
 
 const getAll = async () => {
   return boards;
@@ -24,6 +25,7 @@ const updateBoard = async (id, board) => {
 
 const deleteBoard = async id => {
   boards = boards.filter(board => board.id !== id);
+  taskService.deleteByboard(id);
   return null;
 };
 

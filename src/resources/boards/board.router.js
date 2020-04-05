@@ -1,5 +1,6 @@
 const router = require('express').Router();
 const boardService = require('./board.service');
+const taskRoute = require('../tasks/tasks.router');
 
 router.route('/').get(async (req, res) => {
   const boards = await boardService.getAll();
@@ -31,5 +32,14 @@ router.route('/:id').delete(async (req, res) => {
   await boardService.delBoard(req.params.id);
   res.status(204).json({ message: 'The board has been deleted' });
 });
+
+router.use(
+  '/:boardId/tasks',
+  (req, res, next) => {
+    req.boardId = req.params.boardId;
+    next();
+  },
+  taskRoute
+);
 
 module.exports = router;
