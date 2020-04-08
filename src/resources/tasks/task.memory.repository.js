@@ -23,17 +23,17 @@ const updateTask = async (boardId, taskId, task) => {
   updTask.columnId = task.columnId;
   updTask.description = task.description;
   updTask.title = task.title;
-  updTask.userId = task.userIdl;
+  updTask.userId = task.userId;
   return updTask;
 };
 
-const deleteTask = async (boardId, taskId) => {
-  tasks = tasks.filter(task => task.boardId === boardId && task.id === taskId);
+const deleteTask = async taskId => {
+  tasks = tasks.filter(task => task.id !== taskId);
   return null;
 };
 
 const deleteTaskByDoard = async boardId => {
-  tasks = tasks.filter(task => task.boardId === boardId);
+  tasks = tasks.filter(task => task.boardId !== boardId);
   return null;
 };
 

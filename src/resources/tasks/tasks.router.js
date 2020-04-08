@@ -26,7 +26,7 @@ router.route('/:id').put(async (req, res) => {
 });
 
 router.route('/:id').delete(async (req, res) => {
-  await tasksService.delTask(req.boardId, req.params.id);
+  await tasksService.delTask(req.params.id);
   res.status(204).json({ message: 'The user has been deleted' });
 });
 

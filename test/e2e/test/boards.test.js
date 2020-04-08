@@ -105,7 +105,12 @@ describe('Boards suite', () => {
       };
 
       // Test
-      await request.expect(200);
+      await request
+        .put(routes.boards.update(boardToUpdate.id))
+        .set('Accept', 'application/json')
+        .send(updatedBoard)
+        .expect(200)
+        .expect('Content-Type', /json/);
 
       await request
         .get(routes.boards.getById(updatedBoard.id))
