@@ -1,49 +1,32 @@
-let tasks = require('./data').tasks;
+// let tasks = require('./data').tasks;
 const Task = require('./task.model');
 
-const getAll = async boardId => {
-  return tasks.filter(task => task.boardId === boardId);
+const getAll = async _boardId => {
+  return Task.find({ boardId: _boardId });
 };
 
-const getTaskById = async (boardId, taskId) => {
-  return tasks.find(task => task.boardId === boardId && task.id === taskId);
+const getTaskById = async (_boardId, taskId) => {
+  return Task.findOne({ _id: taskId, boardId: _boardId });
 };
 
-const createTask = async (boardId, task) => {
-  const newTask = new Task({ ...task, boardId });
-  tasks.push(newTask);
-  return newTask;
+const createTask = async (_boardId, task) => {
+  return Task.create({ ...task, boardId: _boardId });
 };
 
-const updateTask = async (boardId, taskId, task) => {
-  const updTask = tasks.find(
-    item => item.boardId === boardId && item.id === taskId
-  );
-  updTask.order = task.order;
-  updTask.columnId = task.columnId;
-  updTask.description = task.description;
-  updTask.title = task.title;
-  updTask.userId = task.userId;
-  return updTask;
+const updateTask = async (_boardId, taskId, task) => {
+  return Task.updateOne({ _id: taskId, boardId: _boardId }, task);
 };
 
 const deleteTask = async taskId => {
-  tasks = tasks.filter(task => task.id !== taskId);
-  return null;
+  return Task.deleteOne({ _id: taskId });
 };
 
-const deleteTaskByDoard = async boardId => {
-  tasks = tasks.filter(task => task.boardId !== boardId);
-  return null;
+const deleteTaskByDoard = async _boardId => {
+  return Task.deleteMany({ boardId: _boardId });
 };
 
-const nullUserInTask = async userId => {
-  tasks = tasks.map(task => {
-    if (task.userId === userId) {
-      task.userId = null;
-    }
-    return task;
-  });
+const nullUserInTask = async _userId => {
+  return Task.updateMany({ userId: _userId }, { userId: null });
 };
 
 module.exports = {

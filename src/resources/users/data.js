@@ -1,12 +1,14 @@
+const User = require('./user.model');
+
 exports.users = [
-  {
-    id: 'VS5RE36P3foN',
+  new User({
     name: 'Sam Winchester',
-    login: 'Moose'
-  },
-  {
-    id: 'wgfGlsg7uxgu',
+    login: 'Moose',
+    password: 'admin'
+  }),
+  new User({
     name: 'Dean Winchester',
-    login: 'Dean'
-  }
+    login: 'Dean',
+    password: 'password123'
+  })
 ];

@@ -1,33 +1,25 @@
-let users = require('./data').users;
+// const users = require('./data').users;
 const User = require('./user.model');
-const taskservice = require('../tasks/task.service');
+// const taskservice = require('../tasks/task.service');
 
 const getAll = async () => {
-  return users;
+  return User.find({});
 };
 
 const getUserById = async id => {
-  return users.find(user => user.id === id);
+  return User.findById(id);
 };
 
 const createUser = async user => {
-  const newUser = new User(user);
-  users.push(newUser);
-  return newUser;
+  return User.create(user);
 };
 
 const updateUser = async (id, user) => {
-  const updUser = users.find(item => item.id === id);
-  updUser.name = user.name;
-  updUser.login = user.login;
-  updUser.password = user.password;
-  return updUser;
+  return User.updateOne({ _id: id }, user);
 };
 
 const deleteUser = async id => {
-  users = users.filter(user => user.id !== id);
-  taskservice.nullUser(id);
-  return null;
+  return User.deleteOne({ _id: id });
 };
 
 module.exports = { getAll, getUserById, createUser, updateUser, deleteUser };

@@ -2,10 +2,12 @@ const router = require('express').Router();
 const tasksService = require('./task.service');
 const createError = require('http-errors');
 const errorHandler = require('../../common/errors');
+const Task = require('./task.model');
 
 router.route('/').get(
   errorHandler(async (req, res) => {
     const tasks = await tasksService.getAll(req.boardId);
+    console.log(tasks);
     return res.status(200).json(tasks);
   })
 );
@@ -13,10 +15,11 @@ router.route('/').get(
 router.route('/:id').get(
   errorHandler(async (req, res) => {
     const task = await tasksService.getTask(req.boardId, req.params.id);
+    console.log(task);
     if (!task) {
       throw createError(404, 'Task not found');
     }
-    return res.status(200).json(task);
+    return res.status(200).json(Task.toResponse(task));
   })
 );
 

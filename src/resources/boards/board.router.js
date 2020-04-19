@@ -15,6 +15,7 @@ router.route('/').get(
 router.route('/:id').get(
   errorHandler(async (req, res) => {
     const board = await boardService.getBoard(req.params.id);
+    console.log(board);
     if (!board) {
       throw createError(404, 'Board not found');
     }

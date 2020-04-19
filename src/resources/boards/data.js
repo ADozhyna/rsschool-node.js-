@@ -1,29 +1,18 @@
+const Board = require('./board.model');
+
 exports.boards = [
-  {
-    id: 'k8trgGWWfyju',
-    title: 'Board one',
+  new Board({
+    title: 'Title_one',
     columns: [
-      {
-        id: '1c1',
-        title: 'column one board one',
-        order: 0
-      }
+      { title: 'Column one', order: 1 },
+      { title: 'Column two', order: 2 }
     ]
-  },
-  {
-    id: 'ioVUFrLAlh75',
-    title: 'Board two',
+  }),
+  new Board({
+    title: 'Title_two',
     columns: [
-      {
-        id: '1c2',
-        title: 'column one board two',
-        order: 0
-      },
-      {
-        id: '2c2',
-        title: 'column two board two',
-        order: 1
-      }
+      { title: 'Column one', order: 1 },
+      { title: 'Column', order: 0 }
     ]
-  }
+  })
 ];

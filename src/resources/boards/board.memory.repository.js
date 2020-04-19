@@ -1,32 +1,24 @@
-let boards = require('./data').boards;
 const Board = require('./board.model');
-const taskService = require('../tasks/task.service');
+// const taskService = require('../tasks/task.service');
 
 const getAll = async () => {
-  return boards;
+  return Board.find({});
 };
 
 const getBoardById = async id => {
-  return boards.find(board => board.id === id);
+  return Board.findById(id);
 };
 
 const createBoard = async board => {
-  const newBoard = new Board(board);
-  boards.push(newBoard);
-  return newBoard;
+  return Board.create(board);
 };
 
 const updateBoard = async (id, board) => {
-  const updBoard = boards.find(item => item.id === id);
-  updBoard.title = board.title;
-  updBoard.columns = board.columns;
-  return updBoard;
+  return Board.updateOne({ _id: id }, board);
 };
 
 const deleteBoard = async id => {
-  boards = boards.filter(board => board.id !== id);
-  taskService.deleteByboard(id);
-  return null;
+  return Board.deleteOne({ _id: id });
 };
 
 module.exports = {
