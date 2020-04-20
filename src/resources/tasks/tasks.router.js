@@ -7,8 +7,7 @@ const Task = require('./task.model');
 router.route('/').get(
   errorHandler(async (req, res) => {
     const tasks = await tasksService.getAll(req.boardId);
-    console.log(tasks);
-    return res.status(200).json(tasks);
+    return res.status(200).json(tasks.map(Task.toResponse));
   })
 );
 
@@ -26,7 +25,7 @@ router.route('/:id').get(
 router.route('/').post(
   errorHandler(async (req, res) => {
     const task = await tasksService.addTask(req.boardId, req.body);
-    return res.status(200).json(task);
+    return res.status(200).json(Task.toResponse(task));
   })
 );
 
@@ -37,7 +36,7 @@ router.route('/:id').put(
       req.params.id,
       req.body
     );
-    return res.status(200).json(task);
+    return res.status(200).json(Task.toResponse(task));
   })
 );
 

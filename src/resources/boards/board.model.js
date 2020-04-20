@@ -29,6 +29,11 @@ const columnSchema = new mongoose.Schema({
   }
 });
 
+columnSchema.statics.toResponse = column => {
+  const { id, title, order } = column;
+  return { id, title, order };
+};
+
 const boardSchema = new mongoose.Schema({
   _id: {
     type: String,
@@ -37,6 +42,11 @@ const boardSchema = new mongoose.Schema({
   title: String,
   columns: [columnSchema]
 });
+
+boardSchema.statics.toResponse = board => {
+  const { id, title, columns } = board;
+  return { id, title, columns };
+};
 
 const Board = mongoose.model('Board', boardSchema);
 

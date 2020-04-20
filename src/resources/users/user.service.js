@@ -5,9 +5,9 @@ const getAll = () => usersRepo.getAll();
 const getUser = id => usersRepo.getUserById(id);
 const addNewUser = user => usersRepo.createUser(user);
 const updUser = (id, user) => usersRepo.updateUser(id, user);
-const delUser = id => {
+const delUser = async id => {
   usersRepo.deleteUser(id);
-  tasksService.nullUser(id);
+  await tasksService.nullUser(id);
 };
 
 module.exports = { getAll, getUser, addNewUser, updUser, delUser };

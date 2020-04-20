@@ -6,7 +6,7 @@ const getAll = async () => {
 };
 
 const getBoardById = async id => {
-  return Board.findById(id);
+  return Board.findOne({ _id: id });
 };
 
 const createBoard = async board => {

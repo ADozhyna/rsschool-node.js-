@@ -4,29 +4,29 @@ const taskRoute = require('../tasks/tasks.router');
 const ValidationError = require('../../common/validation');
 const createError = require('http-errors');
 const errorHandler = require('../../common/errors');
+const Board = require('./board.model');
 
 router.route('/').get(
   errorHandler(async (req, res) => {
     const boards = await boardService.getAll();
-    return res.status(200).json(boards);
+    return res.status(200).json(boards.map(Board.toResponse));
   })
 );
 
 router.route('/:id').get(
   errorHandler(async (req, res) => {
     const board = await boardService.getBoard(req.params.id);
-    console.log(board);
     if (!board) {
       throw createError(404, 'Board not found');
     }
-    return res.status(200).json(board);
+    return res.status(200).json(Board.toResponse(board));
   })
 );
 
 router.route('/').post(
   errorHandler(async (req, res) => {
     const board = await boardService.addBoard(req.body);
-    return res.status(200).json(board);
+    return res.status(200).json(Board.toResponse(board));
   })
 );
 
@@ -40,7 +40,7 @@ router.route('/:id').put(
       const error = new ValidationError();
       throw error;
     }
-    return res.status(200).json(board);
+    return res.status(200).json(Board.toResponse(board));
   })
 );
 

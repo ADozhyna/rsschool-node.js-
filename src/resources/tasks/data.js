@@ -5,7 +5,7 @@ exports.tasks = [
     title: 'title task',
     order: 2,
     description: '',
-    userId: 'userId', // assignee
+    userId: 'userId',
     boardId: 'boardId',
     columnId: 'columnId'
   }),
@@ -13,7 +13,7 @@ exports.tasks = [
     title: 'title task',
     order: 1,
     description: '',
-    userId: 'userId', // assignee
+    userId: 'userId',
     boardId: 'boardId',
     columnId: 'columnId'
   }),
@@ -21,7 +21,7 @@ exports.tasks = [
     title: 'title task',
     order: 3,
     description: 'desc',
-    userId: 'userId', // assignee
+    userId: 'userId',
     boardId: 'boardId',
     columnId: 'columnId'
   })

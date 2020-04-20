@@ -1,4 +1,3 @@
-// let tasks = require('./data').tasks;
 const Task = require('./task.model');
 
 const getAll = async _boardId => {
@@ -26,6 +25,7 @@ const deleteTaskByDoard = async _boardId => {
 };
 
 const nullUserInTask = async _userId => {
+  // console.log(Task.find({ userId: _userId }));
   return Task.updateMany({ userId: _userId }, { userId: null });
 };
 
