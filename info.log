@@ -74,3 +74,679 @@
 {"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/3d92d749-a975-4a1d-a41b-fce300916566/tasks/3d688dfd-c65f-4144-b7cb-e574086b709c params: {} body: {}","timestamp":"2020-04-20T12:32:15.554Z"}
 {"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/3d92d749-a975-4a1d-a41b-fce300916566 params: {} body: {}","timestamp":"2020-04-20T12:32:15.620Z"}
 {"level":"\u001b[31merror\u001b[39m","message":"   Unhandled rejection detected: Cannot create collection test.users - database is in the process of being dropped.","timestamp":"2020-04-20T12:33:17.423Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards params: {} body: {\"title\":\"Autotest board\",\"columns\":[{\"title\":\"Backlog\",\"order\":1},{\"title\":\"Sprint\",\"order\":2}]}","timestamp":"2020-04-26T22:46:43.799Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined createError is not a function","timestamp":"2020-04-26T22:46:43.807Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards params: {} body: {\"title\":\"Autotest board\",\"columns\":[{\"title\":\"Backlog\",\"order\":1},{\"title\":\"Sprint\",\"order\":2}]}","timestamp":"2020-04-26T22:46:43.827Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined createError is not a function","timestamp":"2020-04-26T22:46:43.828Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /users params: {} body: {}","timestamp":"2020-04-26T22:46:43.829Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined createError is not a function","timestamp":"2020-04-26T22:46:43.830Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards params: {} body: {}","timestamp":"2020-04-26T22:46:43.842Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined createError is not a function","timestamp":"2020-04-26T22:46:43.843Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/undefined/tasks params: {} body: {\"title\":\"Autotest task\",\"order\":0,\"description\":\"Lorem ipsum\",\"userId\":null,\"boardId\":null,\"columnId\":null}","timestamp":"2020-04-26T22:46:43.850Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined createError is not a function","timestamp":"2020-04-26T22:46:43.851Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /users params: {} body: {\"name\":\"TEST_USER\",\"login\":\"test_user\",\"password\":\"T35t_P@55w0rd\"}","timestamp":"2020-04-26T22:46:43.858Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined createError is not a function","timestamp":"2020-04-26T22:46:43.859Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards params: {} body: {}","timestamp":"2020-04-26T22:46:43.860Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined createError is not a function","timestamp":"2020-04-26T22:46:43.860Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/undefined/tasks params: {} body: {}","timestamp":"2020-04-26T22:46:43.869Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined createError is not a function","timestamp":"2020-04-26T22:46:43.870Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /users params: {} body: {\"name\":\"TEST_USER\",\"login\":\"test_user\",\"password\":\"T35t_P@55w0rd\"}","timestamp":"2020-04-26T22:46:43.876Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined createError is not a function","timestamp":"2020-04-26T22:46:43.880Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards params: {} body: {\"title\":\"Autotest board\",\"columns\":[{\"title\":\"Backlog\",\"order\":1},{\"title\":\"Sprint\",\"order\":2}]}","timestamp":"2020-04-26T22:46:43.881Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined createError is not a function","timestamp":"2020-04-26T22:46:43.881Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/undefined/tasks params: {} body: {}","timestamp":"2020-04-26T22:46:43.891Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined createError is not a function","timestamp":"2020-04-26T22:46:43.892Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /users params: {} body: {\"name\":\"TEST_USER\",\"login\":\"test_user\",\"password\":\"T35t_P@55w0rd\"}","timestamp":"2020-04-26T22:46:43.897Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined createError is not a function","timestamp":"2020-04-26T22:46:43.897Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards params: {} body: {\"title\":\"Autotest board\",\"columns\":[{\"title\":\"Backlog\",\"order\":1},{\"title\":\"Sprint\",\"order\":2}]}","timestamp":"2020-04-26T22:46:43.898Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined createError is not a function","timestamp":"2020-04-26T22:46:43.899Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/undefined/tasks params: {} body: {\"title\":\"Autotest task\",\"order\":0,\"description\":\"Lorem ipsum\",\"userId\":null,\"boardId\":null,\"columnId\":null}","timestamp":"2020-04-26T22:46:43.908Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined createError is not a function","timestamp":"2020-04-26T22:46:43.909Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /users/undefined params: {} body: {\"name\":\"Autotest updated TEST_USER\",\"login\":\"test_user\",\"password\":\"T35t_P@55w0rd\"}","timestamp":"2020-04-26T22:46:43.914Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined createError is not a function","timestamp":"2020-04-26T22:46:43.915Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/undefined params: {} body: {\"title\":\"Autotest updated board\"}","timestamp":"2020-04-26T22:46:43.916Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined createError is not a function","timestamp":"2020-04-26T22:46:43.917Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/undefined/tasks params: {} body: {\"title\":\"Autotest task\",\"order\":0,\"description\":\"Lorem ipsum\",\"userId\":null,\"boardId\":null,\"columnId\":null}","timestamp":"2020-04-26T22:46:43.925Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined createError is not a function","timestamp":"2020-04-26T22:46:43.926Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /users params: {} body: {\"name\":\"TEST_USER\",\"login\":\"test_user\",\"password\":\"T35t_P@55w0rd\"}","timestamp":"2020-04-26T22:46:43.931Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined createError is not a function","timestamp":"2020-04-26T22:46:43.932Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards params: {} body: {\"title\":\"Autotest board\",\"columns\":[{\"title\":\"Backlog\",\"order\":1},{\"title\":\"Sprint\",\"order\":2}]}","timestamp":"2020-04-26T22:46:43.932Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined createError is not a function","timestamp":"2020-04-26T22:46:43.933Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/undefined/tasks/undefined params: {} body: {\"title\":\"Autotest updated task\"}","timestamp":"2020-04-26T22:46:43.940Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined createError is not a function","timestamp":"2020-04-26T22:46:43.941Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /users/undefined params: {} body: {}","timestamp":"2020-04-26T22:46:43.946Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined createError is not a function","timestamp":"2020-04-26T22:46:43.946Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards params: {} body: {\"title\":\"Autotest board\",\"columns\":[{\"title\":\"Backlog\",\"order\":1},{\"title\":\"Sprint\",\"order\":2}]}","timestamp":"2020-04-26T22:46:43.947Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined createError is not a function","timestamp":"2020-04-26T22:46:43.947Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/undefined/tasks/undefined params: {} body: {}","timestamp":"2020-04-26T22:46:43.956Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined createError is not a function","timestamp":"2020-04-26T22:46:43.957Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/undefined params: {} body: {}","timestamp":"2020-04-26T22:46:43.961Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined createError is not a function","timestamp":"2020-04-26T22:46:43.961Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /users params: {} body: {\"name\":\"TEST_USER\",\"login\":\"test_user\",\"password\":\"T35t_P@55w0rd\"}","timestamp":"2020-04-26T22:46:43.962Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined createError is not a function","timestamp":"2020-04-26T22:46:43.963Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/undefined params: {} body: {}","timestamp":"2020-04-26T22:46:43.975Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined createError is not a function","timestamp":"2020-04-26T22:46:43.975Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards params: {} body: {\"title\":\"Autotest board\",\"columns\":[{\"title\":\"Backlog\",\"order\":1},{\"title\":\"Sprint\",\"order\":2}]}","timestamp":"2020-04-26T22:47:45.698Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined createError is not a function","timestamp":"2020-04-26T22:47:45.702Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/undefined/tasks params: {} body: {\"title\":\"Autotest task\",\"order\":0,\"description\":\"Lorem ipsum\",\"userId\":null,\"boardId\":null,\"columnId\":null}","timestamp":"2020-04-26T22:47:45.719Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined createError is not a function","timestamp":"2020-04-26T22:47:45.720Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/undefined/tasks params: {} body: {}","timestamp":"2020-04-26T22:47:45.727Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined createError is not a function","timestamp":"2020-04-26T22:47:45.728Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/undefined/tasks params: {} body: {}","timestamp":"2020-04-26T22:47:45.737Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined createError is not a function","timestamp":"2020-04-26T22:47:45.738Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/undefined/tasks params: {} body: {\"title\":\"Autotest task\",\"order\":0,\"description\":\"Lorem ipsum\",\"userId\":null,\"boardId\":null,\"columnId\":null}","timestamp":"2020-04-26T22:47:45.745Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined createError is not a function","timestamp":"2020-04-26T22:47:45.746Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/undefined/tasks params: {} body: {\"title\":\"Autotest task\",\"order\":0,\"description\":\"Lorem ipsum\",\"userId\":null,\"boardId\":null,\"columnId\":null}","timestamp":"2020-04-26T22:47:45.757Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined createError is not a function","timestamp":"2020-04-26T22:47:45.759Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/undefined/tasks/undefined params: {} body: {\"title\":\"Autotest updated task\"}","timestamp":"2020-04-26T22:47:45.776Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined createError is not a function","timestamp":"2020-04-26T22:47:45.778Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards params: {} body: {\"title\":\"Autotest board\",\"columns\":[{\"title\":\"Backlog\",\"order\":1},{\"title\":\"Sprint\",\"order\":2}]}","timestamp":"2020-04-26T22:47:45.786Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined createError is not a function","timestamp":"2020-04-26T22:47:45.786Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/undefined/tasks/undefined params: {} body: {}","timestamp":"2020-04-26T22:47:45.789Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined createError is not a function","timestamp":"2020-04-26T22:47:45.790Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /users params: {} body: {}","timestamp":"2020-04-26T22:47:45.801Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined createError is not a function","timestamp":"2020-04-26T22:47:45.802Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards params: {} body: {}","timestamp":"2020-04-26T22:47:45.804Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined createError is not a function","timestamp":"2020-04-26T22:47:45.805Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/undefined params: {} body: {}","timestamp":"2020-04-26T22:47:45.806Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined createError is not a function","timestamp":"2020-04-26T22:47:45.807Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /users params: {} body: {\"name\":\"TEST_USER\",\"login\":\"test_user\",\"password\":\"T35t_P@55w0rd\"}","timestamp":"2020-04-26T22:47:45.823Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined createError is not a function","timestamp":"2020-04-26T22:47:45.824Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards params: {} body: {}","timestamp":"2020-04-26T22:47:45.826Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined createError is not a function","timestamp":"2020-04-26T22:47:45.826Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards params: {} body: {\"title\":\"Autotest board\",\"columns\":[{\"title\":\"Backlog\",\"order\":1},{\"title\":\"Sprint\",\"order\":2}]}","timestamp":"2020-04-26T22:47:45.858Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined createError is not a function","timestamp":"2020-04-26T22:47:45.859Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /users params: {} body: {\"name\":\"TEST_USER\",\"login\":\"test_user\",\"password\":\"T35t_P@55w0rd\"}","timestamp":"2020-04-26T22:47:45.860Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined createError is not a function","timestamp":"2020-04-26T22:47:45.860Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards params: {} body: {\"title\":\"Autotest board\",\"columns\":[{\"title\":\"Backlog\",\"order\":1},{\"title\":\"Sprint\",\"order\":2}]}","timestamp":"2020-04-26T22:47:45.880Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined createError is not a function","timestamp":"2020-04-26T22:47:45.882Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /users params: {} body: {\"name\":\"TEST_USER\",\"login\":\"test_user\",\"password\":\"T35t_P@55w0rd\"}","timestamp":"2020-04-26T22:47:45.884Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined createError is not a function","timestamp":"2020-04-26T22:47:45.886Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/undefined params: {} body: {\"title\":\"Autotest updated board\"}","timestamp":"2020-04-26T22:47:45.900Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined createError is not a function","timestamp":"2020-04-26T22:47:45.902Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /users/undefined params: {} body: {\"name\":\"Autotest updated TEST_USER\",\"login\":\"test_user\",\"password\":\"T35t_P@55w0rd\"}","timestamp":"2020-04-26T22:47:45.903Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined createError is not a function","timestamp":"2020-04-26T22:47:45.903Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards params: {} body: {\"title\":\"Autotest board\",\"columns\":[{\"title\":\"Backlog\",\"order\":1},{\"title\":\"Sprint\",\"order\":2}]}","timestamp":"2020-04-26T22:47:45.913Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined createError is not a function","timestamp":"2020-04-26T22:47:45.913Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /users params: {} body: {\"name\":\"TEST_USER\",\"login\":\"test_user\",\"password\":\"T35t_P@55w0rd\"}","timestamp":"2020-04-26T22:47:45.914Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined createError is not a function","timestamp":"2020-04-26T22:47:45.915Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /users/undefined params: {} body: {}","timestamp":"2020-04-26T22:47:45.923Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined createError is not a function","timestamp":"2020-04-26T22:47:45.924Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards params: {} body: {\"title\":\"Autotest board\",\"columns\":[{\"title\":\"Backlog\",\"order\":1},{\"title\":\"Sprint\",\"order\":2}]}","timestamp":"2020-04-26T22:47:45.925Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined createError is not a function","timestamp":"2020-04-26T22:47:45.926Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/undefined params: {} body: {}","timestamp":"2020-04-26T22:47:45.937Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined createError is not a function","timestamp":"2020-04-26T22:47:45.938Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /users params: {} body: {\"name\":\"TEST_USER\",\"login\":\"test_user\",\"password\":\"T35t_P@55w0rd\"}","timestamp":"2020-04-26T22:47:45.939Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined createError is not a function","timestamp":"2020-04-26T22:47:45.940Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards params: {} body: {\"title\":\"Autotest board\",\"columns\":[{\"title\":\"Backlog\",\"order\":1},{\"title\":\"Sprint\",\"order\":2}]}","timestamp":"2020-04-26T22:48:16.373Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined createError is not a function","timestamp":"2020-04-26T22:48:16.377Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards params: {} body: {\"title\":\"Autotest board\",\"columns\":[{\"title\":\"Backlog\",\"order\":1},{\"title\":\"Sprint\",\"order\":2}]}","timestamp":"2020-04-26T22:48:16.393Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined createError is not a function","timestamp":"2020-04-26T22:48:16.394Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards params: {} body: {}","timestamp":"2020-04-26T22:48:16.399Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined createError is not a function","timestamp":"2020-04-26T22:48:16.399Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /users params: {} body: {}","timestamp":"2020-04-26T22:48:16.402Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined createError is not a function","timestamp":"2020-04-26T22:48:16.403Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/undefined/tasks params: {} body: {\"title\":\"Autotest task\",\"order\":0,\"description\":\"Lorem ipsum\",\"userId\":null,\"boardId\":null,\"columnId\":null}","timestamp":"2020-04-26T22:48:16.413Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined createError is not a function","timestamp":"2020-04-26T22:48:16.414Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards params: {} body: {}","timestamp":"2020-04-26T22:48:16.416Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined createError is not a function","timestamp":"2020-04-26T22:48:16.417Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/undefined/tasks params: {} body: {}","timestamp":"2020-04-26T22:48:16.426Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined createError is not a function","timestamp":"2020-04-26T22:48:16.427Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /users params: {} body: {\"name\":\"TEST_USER\",\"login\":\"test_user\",\"password\":\"T35t_P@55w0rd\"}","timestamp":"2020-04-26T22:48:16.428Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined createError is not a function","timestamp":"2020-04-26T22:48:16.429Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards params: {} body: {\"title\":\"Autotest board\",\"columns\":[{\"title\":\"Backlog\",\"order\":1},{\"title\":\"Sprint\",\"order\":2}]}","timestamp":"2020-04-26T22:48:16.431Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined createError is not a function","timestamp":"2020-04-26T22:48:16.431Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /users params: {} body: {\"name\":\"TEST_USER\",\"login\":\"test_user\",\"password\":\"T35t_P@55w0rd\"}","timestamp":"2020-04-26T22:48:16.456Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined createError is not a function","timestamp":"2020-04-26T22:48:16.457Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/undefined/tasks params: {} body: {}","timestamp":"2020-04-26T22:48:16.458Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined createError is not a function","timestamp":"2020-04-26T22:48:16.459Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards params: {} body: {\"title\":\"Autotest board\",\"columns\":[{\"title\":\"Backlog\",\"order\":1},{\"title\":\"Sprint\",\"order\":2}]}","timestamp":"2020-04-26T22:48:16.461Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined createError is not a function","timestamp":"2020-04-26T22:48:16.462Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /users params: {} body: {\"name\":\"TEST_USER\",\"login\":\"test_user\",\"password\":\"T35t_P@55w0rd\"}","timestamp":"2020-04-26T22:48:16.474Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined createError is not a function","timestamp":"2020-04-26T22:48:16.474Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/undefined/tasks params: {} body: {\"title\":\"Autotest task\",\"order\":0,\"description\":\"Lorem ipsum\",\"userId\":null,\"boardId\":null,\"columnId\":null}","timestamp":"2020-04-26T22:48:16.476Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined createError is not a function","timestamp":"2020-04-26T22:48:16.477Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/undefined params: {} body: {\"title\":\"Autotest updated board\"}","timestamp":"2020-04-26T22:48:16.482Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined createError is not a function","timestamp":"2020-04-26T22:48:16.483Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /users/undefined params: {} body: {\"name\":\"Autotest updated TEST_USER\",\"login\":\"test_user\",\"password\":\"T35t_P@55w0rd\"}","timestamp":"2020-04-26T22:48:16.487Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined createError is not a function","timestamp":"2020-04-26T22:48:16.489Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/undefined/tasks params: {} body: {\"title\":\"Autotest task\",\"order\":0,\"description\":\"Lorem ipsum\",\"userId\":null,\"boardId\":null,\"columnId\":null}","timestamp":"2020-04-26T22:48:16.496Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined createError is not a function","timestamp":"2020-04-26T22:48:16.498Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards params: {} body: {\"title\":\"Autotest board\",\"columns\":[{\"title\":\"Backlog\",\"order\":1},{\"title\":\"Sprint\",\"order\":2}]}","timestamp":"2020-04-26T22:48:16.499Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined createError is not a function","timestamp":"2020-04-26T22:48:16.500Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /users params: {} body: {\"name\":\"TEST_USER\",\"login\":\"test_user\",\"password\":\"T35t_P@55w0rd\"}","timestamp":"2020-04-26T22:48:16.504Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined createError is not a function","timestamp":"2020-04-26T22:48:16.506Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/undefined/tasks/undefined params: {} body: {\"title\":\"Autotest updated task\"}","timestamp":"2020-04-26T22:48:16.510Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined createError is not a function","timestamp":"2020-04-26T22:48:16.511Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards params: {} body: {\"title\":\"Autotest board\",\"columns\":[{\"title\":\"Backlog\",\"order\":1},{\"title\":\"Sprint\",\"order\":2}]}","timestamp":"2020-04-26T22:48:16.516Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined createError is not a function","timestamp":"2020-04-26T22:48:16.517Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /users/undefined params: {} body: {}","timestamp":"2020-04-26T22:48:16.521Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined createError is not a function","timestamp":"2020-04-26T22:48:16.522Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/undefined/tasks/undefined params: {} body: {}","timestamp":"2020-04-26T22:48:16.530Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined createError is not a function","timestamp":"2020-04-26T22:48:16.531Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/undefined params: {} body: {}","timestamp":"2020-04-26T22:48:16.533Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined createError is not a function","timestamp":"2020-04-26T22:48:16.534Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /users params: {} body: {\"name\":\"TEST_USER\",\"login\":\"test_user\",\"password\":\"T35t_P@55w0rd\"}","timestamp":"2020-04-26T22:48:16.544Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined createError is not a function","timestamp":"2020-04-26T22:48:16.545Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/undefined params: {} body: {}","timestamp":"2020-04-26T22:48:16.546Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined createError is not a function","timestamp":"2020-04-26T22:48:16.547Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   Unhandled rejection detected: Cannot create collection test.tasks - database is in the process of being dropped.","timestamp":"2020-04-26T22:49:26.784Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /users params: {} body: {}","timestamp":"2020-04-26T22:49:52.608Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T22:49:52.615Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards params: {} body: {\"title\":\"Autotest board\",\"columns\":[{\"title\":\"Backlog\",\"order\":1},{\"title\":\"Sprint\",\"order\":2}]}","timestamp":"2020-04-26T22:49:52.640Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T22:49:52.641Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /users params: {} body: {\"name\":\"TEST_USER\",\"login\":\"test_user\",\"password\":\"T35t_P@55w0rd\"}","timestamp":"2020-04-26T22:49:52.643Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T22:49:52.644Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards params: {} body: {\"title\":\"Autotest board\",\"columns\":[{\"title\":\"Backlog\",\"order\":1},{\"title\":\"Sprint\",\"order\":2}]}","timestamp":"2020-04-26T22:49:52.646Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T22:49:52.646Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /users params: {} body: {\"name\":\"TEST_USER\",\"login\":\"test_user\",\"password\":\"T35t_P@55w0rd\"}","timestamp":"2020-04-26T22:49:52.650Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T22:49:52.651Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards params: {} body: {}","timestamp":"2020-04-26T22:49:52.653Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T22:49:52.654Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /users params: {} body: {\"name\":\"TEST_USER\",\"login\":\"test_user\",\"password\":\"T35t_P@55w0rd\"}","timestamp":"2020-04-26T22:49:52.656Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T22:49:52.657Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/undefined/tasks params: {} body: {\"title\":\"Autotest task\",\"order\":0,\"description\":\"Lorem ipsum\",\"userId\":null,\"boardId\":null,\"columnId\":null}","timestamp":"2020-04-26T22:49:52.659Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T22:49:52.661Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /users/undefined params: {} body: {\"name\":\"Autotest updated TEST_USER\",\"login\":\"test_user\",\"password\":\"T35t_P@55w0rd\"}","timestamp":"2020-04-26T22:49:52.663Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T22:49:52.664Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards params: {} body: {}","timestamp":"2020-04-26T22:49:52.666Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T22:49:52.667Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/undefined/tasks params: {} body: {}","timestamp":"2020-04-26T22:49:52.669Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T22:49:52.670Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /users params: {} body: {\"name\":\"TEST_USER\",\"login\":\"test_user\",\"password\":\"T35t_P@55w0rd\"}","timestamp":"2020-04-26T22:49:52.672Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T22:49:52.673Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards params: {} body: {\"title\":\"Autotest board\",\"columns\":[{\"title\":\"Backlog\",\"order\":1},{\"title\":\"Sprint\",\"order\":2}]}","timestamp":"2020-04-26T22:49:52.675Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T22:49:52.676Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /users/undefined params: {} body: {}","timestamp":"2020-04-26T22:49:52.678Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T22:49:52.679Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/undefined/tasks params: {} body: {}","timestamp":"2020-04-26T22:49:52.681Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T22:49:52.681Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards params: {} body: {\"title\":\"Autotest board\",\"columns\":[{\"title\":\"Backlog\",\"order\":1},{\"title\":\"Sprint\",\"order\":2}]}","timestamp":"2020-04-26T22:49:52.683Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T22:49:52.685Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/undefined/tasks params: {} body: {\"title\":\"Autotest task\",\"order\":0,\"description\":\"Lorem ipsum\",\"userId\":null,\"boardId\":null,\"columnId\":null}","timestamp":"2020-04-26T22:49:52.688Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T22:49:52.689Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/undefined params: {} body: {\"title\":\"Autotest updated board\"}","timestamp":"2020-04-26T22:49:52.690Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T22:49:52.692Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /users params: {} body: {\"name\":\"TEST_USER\",\"login\":\"test_user\",\"password\":\"T35t_P@55w0rd\"}","timestamp":"2020-04-26T22:49:52.693Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T22:49:52.694Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/undefined/tasks params: {} body: {\"title\":\"Autotest task\",\"order\":0,\"description\":\"Lorem ipsum\",\"userId\":null,\"boardId\":null,\"columnId\":null}","timestamp":"2020-04-26T22:49:52.695Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T22:49:52.697Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards params: {} body: {\"title\":\"Autotest board\",\"columns\":[{\"title\":\"Backlog\",\"order\":1},{\"title\":\"Sprint\",\"order\":2}]}","timestamp":"2020-04-26T22:49:52.698Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T22:49:52.699Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/undefined/tasks/undefined params: {} body: {\"title\":\"Autotest updated task\"}","timestamp":"2020-04-26T22:49:52.701Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T22:49:52.702Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards params: {} body: {\"title\":\"Autotest board\",\"columns\":[{\"title\":\"Backlog\",\"order\":1},{\"title\":\"Sprint\",\"order\":2}]}","timestamp":"2020-04-26T22:49:52.705Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T22:49:52.707Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/undefined/tasks/undefined params: {} body: {}","timestamp":"2020-04-26T22:49:52.709Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T22:49:52.710Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/undefined params: {} body: {}","timestamp":"2020-04-26T22:49:52.722Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T22:49:52.723Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/undefined params: {} body: {}","timestamp":"2020-04-26T22:49:52.725Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T22:49:52.726Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /login params: {} body: {\"login\":\"admin\",\"password\":\"admin\"}","timestamp":"2020-04-26T22:50:46.844Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined login is not a function","timestamp":"2020-04-26T22:50:46.846Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /login params: {} body: {\"login\":\"admin\",\"password\":\"admin\"}","timestamp":"2020-04-26T22:50:46.852Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined login is not a function","timestamp":"2020-04-26T22:50:46.854Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards params: {} body: {\"title\":\"Autotest board\",\"columns\":[{\"title\":\"Backlog\",\"order\":1},{\"title\":\"Sprint\",\"order\":2}]}","timestamp":"2020-04-26T22:50:46.858Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /users params: {} body: {}","timestamp":"2020-04-26T22:50:46.863Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards params: {} body: {}","timestamp":"2020-04-26T22:50:46.865Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /users params: {} body: {\"name\":\"TEST_USER\",\"login\":\"test_user\",\"password\":\"T35t_P@55w0rd\"}","timestamp":"2020-04-26T22:50:46.870Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards params: {} body: {}","timestamp":"2020-04-26T22:50:46.872Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /users params: {} body: {\"name\":\"TEST_USER\",\"login\":\"test_user\",\"password\":\"T35t_P@55w0rd\"}","timestamp":"2020-04-26T22:50:46.874Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards params: {} body: {\"title\":\"Autotest board\",\"columns\":[{\"title\":\"Backlog\",\"order\":1},{\"title\":\"Sprint\",\"order\":2}]}","timestamp":"2020-04-26T22:50:46.876Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /users params: {} body: {\"name\":\"TEST_USER\",\"login\":\"test_user\",\"password\":\"T35t_P@55w0rd\"}","timestamp":"2020-04-26T22:50:46.878Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards params: {} body: {\"title\":\"Autotest board\",\"columns\":[{\"title\":\"Backlog\",\"order\":1},{\"title\":\"Sprint\",\"order\":2}]}","timestamp":"2020-04-26T22:50:46.880Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /users/undefined params: {} body: {\"name\":\"Autotest updated TEST_USER\",\"login\":\"test_user\",\"password\":\"T35t_P@55w0rd\"}","timestamp":"2020-04-26T22:50:46.882Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/undefined params: {} body: {\"message\":\"Unautorized\",\"title\":\"Autotest updated board\"}","timestamp":"2020-04-26T22:50:46.883Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /users params: {} body: {\"name\":\"TEST_USER\",\"login\":\"test_user\",\"password\":\"T35t_P@55w0rd\"}","timestamp":"2020-04-26T22:50:46.885Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards params: {} body: {\"title\":\"Autotest board\",\"columns\":[{\"title\":\"Backlog\",\"order\":1},{\"title\":\"Sprint\",\"order\":2}]}","timestamp":"2020-04-26T22:50:46.887Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /users/undefined params: {} body: {}","timestamp":"2020-04-26T22:50:46.889Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards params: {} body: {\"title\":\"Autotest board\",\"columns\":[{\"title\":\"Backlog\",\"order\":1},{\"title\":\"Sprint\",\"order\":2}]}","timestamp":"2020-04-26T22:50:46.891Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/undefined params: {} body: {}","timestamp":"2020-04-26T22:50:46.894Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /users params: {} body: {\"name\":\"TEST_USER\",\"login\":\"test_user\",\"password\":\"T35t_P@55w0rd\"}","timestamp":"2020-04-26T22:50:46.898Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /login params: {} body: {\"login\":\"admin\",\"password\":\"admin\"}","timestamp":"2020-04-26T22:50:46.942Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined login is not a function","timestamp":"2020-04-26T22:50:46.944Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards params: {} body: {\"title\":\"Autotest board\",\"columns\":[{\"title\":\"Backlog\",\"order\":1},{\"title\":\"Sprint\",\"order\":2}]}","timestamp":"2020-04-26T22:50:46.963Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/undefined/tasks params: {} body: {\"title\":\"Autotest task\",\"order\":0,\"description\":\"Lorem ipsum\",\"userId\":null,\"boardId\":null,\"columnId\":null}","timestamp":"2020-04-26T22:50:46.975Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/undefined/tasks params: {} body: {}","timestamp":"2020-04-26T22:50:46.981Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/undefined/tasks params: {} body: {}","timestamp":"2020-04-26T22:50:46.988Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/undefined/tasks params: {} body: {\"title\":\"Autotest task\",\"order\":0,\"description\":\"Lorem ipsum\",\"userId\":null,\"boardId\":null,\"columnId\":null}","timestamp":"2020-04-26T22:50:46.991Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/undefined/tasks params: {} body: {\"title\":\"Autotest task\",\"order\":0,\"description\":\"Lorem ipsum\",\"userId\":null,\"boardId\":null,\"columnId\":null}","timestamp":"2020-04-26T22:50:46.997Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/undefined/tasks/undefined params: {} body: {\"message\":\"Unautorized\",\"title\":\"Autotest updated task\"}","timestamp":"2020-04-26T22:50:47.001Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/undefined/tasks/undefined params: {} body: {}","timestamp":"2020-04-26T22:50:47.004Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/undefined params: {} body: {}","timestamp":"2020-04-26T22:50:47.007Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/12345/tasks params: {} body: {}","timestamp":"2020-04-26T22:50:47.367Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T22:50:47.368Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/12345/tasks/12345 params: {} body: {}","timestamp":"2020-04-26T22:50:47.371Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T22:50:47.372Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/12345/tasks params: {} body: {\"title\":\"Autotest task\",\"order\":0,\"description\":\"Lorem ipsum\",\"userId\":null,\"boardId\":null,\"columnId\":null}","timestamp":"2020-04-26T22:50:47.376Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T22:50:47.386Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/12345/tasks/12345 params: {} body: {\"title\":\"Autotest task\",\"order\":0,\"description\":\"Lorem ipsum\",\"userId\":null,\"boardId\":null,\"columnId\":null}","timestamp":"2020-04-26T22:50:47.390Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T22:50:47.391Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards params: {} body: {}","timestamp":"2020-04-26T22:50:47.393Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T22:50:47.401Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/12345/tasks/12345 params: {} body: {}","timestamp":"2020-04-26T22:50:47.404Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T22:50:47.406Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/12345 params: {} body: {}","timestamp":"2020-04-26T22:50:47.407Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T22:50:47.409Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards params: {} body: {\"title\":\"Autotest board\",\"columns\":[{\"title\":\"Backlog\",\"order\":1},{\"title\":\"Sprint\",\"order\":2}]}","timestamp":"2020-04-26T22:50:47.417Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T22:50:47.418Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/12345 params: {} body: {\"title\":\"Autotest board\",\"columns\":[{\"title\":\"Backlog\",\"order\":1},{\"title\":\"Sprint\",\"order\":2}]}","timestamp":"2020-04-26T22:50:47.421Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T22:50:47.422Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/12345 params: {} body: {}","timestamp":"2020-04-26T22:50:47.424Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T22:50:47.426Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /users params: {} body: {}","timestamp":"2020-04-26T22:50:47.436Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T22:50:47.437Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /users/123 params: {} body: {}","timestamp":"2020-04-26T22:50:47.440Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T22:50:47.441Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /users params: {} body: {\"name\":\"TEST_USER\",\"login\":\"test_user\",\"password\":\"T35t_P@55w0rd\"}","timestamp":"2020-04-26T22:50:47.448Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T22:50:47.449Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /users/12345 params: {} body: {\"name\":\"TEST_USER\",\"login\":\"test_user\",\"password\":\"T35t_P@55w0rd\"}","timestamp":"2020-04-26T22:50:47.451Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T22:50:47.451Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /users/12345 params: {} body: {}","timestamp":"2020-04-26T22:50:47.453Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T22:50:47.454Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /login params: {} body: {\"login\":\"admin\",\"password\":\"admin\"}","timestamp":"2020-04-26T22:52:11.201Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined login is not a function","timestamp":"2020-04-26T22:52:11.205Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /login params: {} body: {\"login\":\"admin\",\"password\":\"admin\"}","timestamp":"2020-04-26T22:52:11.210Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined login is not a function","timestamp":"2020-04-26T22:52:11.214Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards params: {} body: {\"title\":\"Autotest board\",\"columns\":[{\"title\":\"Backlog\",\"order\":1},{\"title\":\"Sprint\",\"order\":2}]}","timestamp":"2020-04-26T22:52:11.219Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /users params: {} body: {}","timestamp":"2020-04-26T22:52:11.223Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/undefined/tasks params: {} body: {\"title\":\"Autotest task\",\"order\":0,\"description\":\"Lorem ipsum\",\"userId\":null,\"boardId\":null,\"columnId\":null}","timestamp":"2020-04-26T22:52:11.225Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/undefined/tasks params: {} body: {}","timestamp":"2020-04-26T22:52:11.230Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /users params: {} body: {\"name\":\"TEST_USER\",\"login\":\"test_user\",\"password\":\"T35t_P@55w0rd\"}","timestamp":"2020-04-26T22:52:11.232Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /users params: {} body: {\"name\":\"TEST_USER\",\"login\":\"test_user\",\"password\":\"T35t_P@55w0rd\"}","timestamp":"2020-04-26T22:52:11.236Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/undefined/tasks params: {} body: {}","timestamp":"2020-04-26T22:52:11.237Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /users params: {} body: {\"name\":\"TEST_USER\",\"login\":\"test_user\",\"password\":\"T35t_P@55w0rd\"}","timestamp":"2020-04-26T22:52:11.240Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/undefined/tasks params: {} body: {\"title\":\"Autotest task\",\"order\":0,\"description\":\"Lorem ipsum\",\"userId\":null,\"boardId\":null,\"columnId\":null}","timestamp":"2020-04-26T22:52:11.243Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /users/undefined params: {} body: {\"name\":\"Autotest updated TEST_USER\",\"login\":\"test_user\",\"password\":\"T35t_P@55w0rd\"}","timestamp":"2020-04-26T22:52:11.245Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /login params: {} body: {\"login\":\"admin\",\"password\":\"admin\"}","timestamp":"2020-04-26T22:52:11.247Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined login is not a function","timestamp":"2020-04-26T22:52:11.248Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/undefined/tasks params: {} body: {\"title\":\"Autotest task\",\"order\":0,\"description\":\"Lorem ipsum\",\"userId\":null,\"boardId\":null,\"columnId\":null}","timestamp":"2020-04-26T22:52:11.249Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /users params: {} body: {\"name\":\"TEST_USER\",\"login\":\"test_user\",\"password\":\"T35t_P@55w0rd\"}","timestamp":"2020-04-26T22:52:11.254Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/undefined/tasks/undefined params: {} body: {\"message\":\"Unautorized\",\"title\":\"Autotest updated task\"}","timestamp":"2020-04-26T22:52:11.256Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards params: {} body: {\"title\":\"Autotest board\",\"columns\":[{\"title\":\"Backlog\",\"order\":1},{\"title\":\"Sprint\",\"order\":2}]}","timestamp":"2020-04-26T22:52:11.257Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /users/undefined params: {} body: {}","timestamp":"2020-04-26T22:52:11.259Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/undefined/tasks/undefined params: {} body: {}","timestamp":"2020-04-26T22:52:11.260Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards params: {} body: {}","timestamp":"2020-04-26T22:52:11.262Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/undefined params: {} body: {}","timestamp":"2020-04-26T22:52:11.265Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /users params: {} body: {\"name\":\"TEST_USER\",\"login\":\"test_user\",\"password\":\"T35t_P@55w0rd\"}","timestamp":"2020-04-26T22:52:11.269Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards params: {} body: {}","timestamp":"2020-04-26T22:52:11.271Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards params: {} body: {\"title\":\"Autotest board\",\"columns\":[{\"title\":\"Backlog\",\"order\":1},{\"title\":\"Sprint\",\"order\":2}]}","timestamp":"2020-04-26T22:52:11.275Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards params: {} body: {\"title\":\"Autotest board\",\"columns\":[{\"title\":\"Backlog\",\"order\":1},{\"title\":\"Sprint\",\"order\":2}]}","timestamp":"2020-04-26T22:52:11.279Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/undefined params: {} body: {\"message\":\"Unautorized\",\"title\":\"Autotest updated board\"}","timestamp":"2020-04-26T22:52:11.282Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards params: {} body: {\"title\":\"Autotest board\",\"columns\":[{\"title\":\"Backlog\",\"order\":1},{\"title\":\"Sprint\",\"order\":2}]}","timestamp":"2020-04-26T22:52:11.297Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards params: {} body: {\"title\":\"Autotest board\",\"columns\":[{\"title\":\"Backlog\",\"order\":1},{\"title\":\"Sprint\",\"order\":2}]}","timestamp":"2020-04-26T22:52:11.307Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/undefined params: {} body: {}","timestamp":"2020-04-26T22:52:11.311Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards params: {} body: {}","timestamp":"2020-04-26T22:52:11.579Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T22:52:11.592Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/12345/tasks params: {} body: {}","timestamp":"2020-04-26T22:52:11.594Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T22:52:11.595Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/12345 params: {} body: {}","timestamp":"2020-04-26T22:52:11.597Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T22:52:11.606Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/12345/tasks/12345 params: {} body: {}","timestamp":"2020-04-26T22:52:11.609Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T22:52:11.610Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards params: {} body: {\"title\":\"Autotest board\",\"columns\":[{\"title\":\"Backlog\",\"order\":1},{\"title\":\"Sprint\",\"order\":2}]}","timestamp":"2020-04-26T22:52:11.611Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T22:52:11.612Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /users params: {} body: {}","timestamp":"2020-04-26T22:52:11.622Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T22:52:11.623Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/12345/tasks params: {} body: {\"title\":\"Autotest task\",\"order\":0,\"description\":\"Lorem ipsum\",\"userId\":null,\"boardId\":null,\"columnId\":null}","timestamp":"2020-04-26T22:52:11.624Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T22:52:11.625Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/12345 params: {} body: {\"title\":\"Autotest board\",\"columns\":[{\"title\":\"Backlog\",\"order\":1},{\"title\":\"Sprint\",\"order\":2}]}","timestamp":"2020-04-26T22:52:11.626Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T22:52:11.627Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /users/123 params: {} body: {}","timestamp":"2020-04-26T22:52:11.627Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T22:52:11.628Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/12345/tasks/12345 params: {} body: {\"title\":\"Autotest task\",\"order\":0,\"description\":\"Lorem ipsum\",\"userId\":null,\"boardId\":null,\"columnId\":null}","timestamp":"2020-04-26T22:52:11.631Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T22:52:11.632Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/12345 params: {} body: {}","timestamp":"2020-04-26T22:52:11.634Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T22:52:11.635Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /users params: {} body: {\"name\":\"TEST_USER\",\"login\":\"test_user\",\"password\":\"T35t_P@55w0rd\"}","timestamp":"2020-04-26T22:52:11.636Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T22:52:11.637Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/12345/tasks/12345 params: {} body: {}","timestamp":"2020-04-26T22:52:11.638Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T22:52:11.638Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /users/12345 params: {} body: {\"name\":\"TEST_USER\",\"login\":\"test_user\",\"password\":\"T35t_P@55w0rd\"}","timestamp":"2020-04-26T22:52:11.640Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T22:52:11.640Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /users/12345 params: {} body: {}","timestamp":"2020-04-26T22:52:11.643Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T22:52:11.643Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   Unhandled rejection detected: Cannot create collection test.tasks - database is in the process of being dropped.","timestamp":"2020-04-26T22:53:20.481Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /login params: {} body: {\"login\":\"admin\",\"password\":\"admin\"}","timestamp":"2020-04-26T22:56:24.188Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined login is not a function","timestamp":"2020-04-26T22:56:24.194Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards params: {} body: {\"title\":\"Autotest board\",\"columns\":[{\"title\":\"Backlog\",\"order\":1},{\"title\":\"Sprint\",\"order\":2}]}","timestamp":"2020-04-26T22:56:24.206Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards params: {} body: {}","timestamp":"2020-04-26T22:56:24.213Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /login params: {} body: {\"login\":\"admin\",\"password\":\"admin\"}","timestamp":"2020-04-26T22:56:24.216Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined login is not a function","timestamp":"2020-04-26T22:56:24.217Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards params: {} body: {}","timestamp":"2020-04-26T22:56:24.222Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards params: {} body: {\"title\":\"Autotest board\",\"columns\":[{\"title\":\"Backlog\",\"order\":1},{\"title\":\"Sprint\",\"order\":2}]}","timestamp":"2020-04-26T22:56:24.226Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards params: {} body: {\"title\":\"Autotest board\",\"columns\":[{\"title\":\"Backlog\",\"order\":1},{\"title\":\"Sprint\",\"order\":2}]}","timestamp":"2020-04-26T22:56:24.228Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/undefined/tasks params: {} body: {\"title\":\"Autotest task\",\"order\":0,\"description\":\"Lorem ipsum\",\"userId\":null,\"boardId\":null,\"columnId\":null}","timestamp":"2020-04-26T22:56:24.230Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards params: {} body: {\"title\":\"Autotest board\",\"columns\":[{\"title\":\"Backlog\",\"order\":1},{\"title\":\"Sprint\",\"order\":2}]}","timestamp":"2020-04-26T22:56:24.232Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/undefined/tasks params: {} body: {}","timestamp":"2020-04-26T22:56:24.235Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/undefined params: {} body: {\"message\":\"Unautorized\",\"title\":\"Autotest updated board\"}","timestamp":"2020-04-26T22:56:24.237Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards params: {} body: {\"title\":\"Autotest board\",\"columns\":[{\"title\":\"Backlog\",\"order\":1},{\"title\":\"Sprint\",\"order\":2}]}","timestamp":"2020-04-26T22:56:24.242Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/undefined/tasks params: {} body: {}","timestamp":"2020-04-26T22:56:24.243Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards params: {} body: {\"title\":\"Autotest board\",\"columns\":[{\"title\":\"Backlog\",\"order\":1},{\"title\":\"Sprint\",\"order\":2}]}","timestamp":"2020-04-26T22:56:24.246Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/undefined/tasks params: {} body: {\"title\":\"Autotest task\",\"order\":0,\"description\":\"Lorem ipsum\",\"userId\":null,\"boardId\":null,\"columnId\":null}","timestamp":"2020-04-26T22:56:24.248Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/undefined params: {} body: {}","timestamp":"2020-04-26T22:56:24.250Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /login params: {} body: {\"login\":\"admin\",\"password\":\"admin\"}","timestamp":"2020-04-26T22:56:24.253Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined login is not a function","timestamp":"2020-04-26T22:56:24.254Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/undefined/tasks params: {} body: {\"title\":\"Autotest task\",\"order\":0,\"description\":\"Lorem ipsum\",\"userId\":null,\"boardId\":null,\"columnId\":null}","timestamp":"2020-04-26T22:56:24.256Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/undefined/tasks/undefined params: {} body: {\"message\":\"Unautorized\",\"title\":\"Autotest updated task\"}","timestamp":"2020-04-26T22:56:24.264Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /users params: {} body: {}","timestamp":"2020-04-26T22:56:24.266Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/undefined/tasks/undefined params: {} body: {}","timestamp":"2020-04-26T22:56:24.268Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/undefined params: {} body: {}","timestamp":"2020-04-26T22:56:24.271Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /users params: {} body: {\"name\":\"TEST_USER\",\"login\":\"test_user\",\"password\":\"T35t_P@55w0rd\"}","timestamp":"2020-04-26T22:56:24.273Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /users params: {} body: {\"name\":\"TEST_USER\",\"login\":\"test_user\",\"password\":\"T35t_P@55w0rd\"}","timestamp":"2020-04-26T22:56:24.277Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /users params: {} body: {\"name\":\"TEST_USER\",\"login\":\"test_user\",\"password\":\"T35t_P@55w0rd\"}","timestamp":"2020-04-26T22:56:24.290Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /users/undefined params: {} body: {\"name\":\"Autotest updated TEST_USER\",\"login\":\"test_user\",\"password\":\"T35t_P@55w0rd\"}","timestamp":"2020-04-26T22:56:24.294Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /users params: {} body: {\"name\":\"TEST_USER\",\"login\":\"test_user\",\"password\":\"T35t_P@55w0rd\"}","timestamp":"2020-04-26T22:56:24.309Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /users/undefined params: {} body: {}","timestamp":"2020-04-26T22:56:24.316Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /users params: {} body: {\"name\":\"TEST_USER\",\"login\":\"test_user\",\"password\":\"T35t_P@55w0rd\"}","timestamp":"2020-04-26T22:56:24.328Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/12345/tasks params: {} body: {}","timestamp":"2020-04-26T22:56:24.545Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T22:56:24.551Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards params: {} body: {}","timestamp":"2020-04-26T22:56:24.554Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T22:56:24.554Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/12345/tasks/12345 params: {} body: {}","timestamp":"2020-04-26T22:56:24.555Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T22:56:24.556Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/12345 params: {} body: {}","timestamp":"2020-04-26T22:56:24.563Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T22:56:24.564Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/12345/tasks params: {} body: {\"title\":\"Autotest task\",\"order\":0,\"description\":\"Lorem ipsum\",\"userId\":null,\"boardId\":null,\"columnId\":null}","timestamp":"2020-04-26T22:56:24.566Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T22:56:24.567Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards params: {} body: {\"title\":\"Autotest board\",\"columns\":[{\"title\":\"Backlog\",\"order\":1},{\"title\":\"Sprint\",\"order\":2}]}","timestamp":"2020-04-26T22:56:24.568Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T22:56:24.569Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/12345/tasks/12345 params: {} body: {\"title\":\"Autotest task\",\"order\":0,\"description\":\"Lorem ipsum\",\"userId\":null,\"boardId\":null,\"columnId\":null}","timestamp":"2020-04-26T22:56:24.571Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T22:56:24.571Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/12345 params: {} body: {\"title\":\"Autotest board\",\"columns\":[{\"title\":\"Backlog\",\"order\":1},{\"title\":\"Sprint\",\"order\":2}]}","timestamp":"2020-04-26T22:56:24.573Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T22:56:24.574Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/12345/tasks/12345 params: {} body: {}","timestamp":"2020-04-26T22:56:24.575Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T22:56:24.577Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/12345 params: {} body: {}","timestamp":"2020-04-26T22:56:24.579Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T22:56:24.579Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /users params: {} body: {}","timestamp":"2020-04-26T22:56:24.594Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T22:56:24.600Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /users/123 params: {} body: {}","timestamp":"2020-04-26T22:56:24.604Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T22:56:24.604Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /users params: {} body: {\"name\":\"TEST_USER\",\"login\":\"test_user\",\"password\":\"T35t_P@55w0rd\"}","timestamp":"2020-04-26T22:56:24.606Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T22:56:24.607Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /users/12345 params: {} body: {\"name\":\"TEST_USER\",\"login\":\"test_user\",\"password\":\"T35t_P@55w0rd\"}","timestamp":"2020-04-26T22:56:24.610Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T22:56:24.611Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /users/12345 params: {} body: {}","timestamp":"2020-04-26T22:56:24.614Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T22:56:24.615Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /login params: {} body: {\"login\":\"admin\",\"password\":\"admin\"}","timestamp":"2020-04-26T23:07:12.270Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined login is not a function","timestamp":"2020-04-26T23:07:12.276Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /login params: {} body: {\"login\":\"admin\",\"password\":\"admin\"}","timestamp":"2020-04-26T23:07:12.289Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined login is not a function","timestamp":"2020-04-26T23:07:12.290Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards params: {} body: {\"title\":\"Autotest board\",\"columns\":[{\"title\":\"Backlog\",\"order\":1},{\"title\":\"Sprint\",\"order\":2}]}","timestamp":"2020-04-26T23:07:12.294Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/undefined/tasks params: {} body: {\"title\":\"Autotest task\",\"order\":0,\"description\":\"Lorem ipsum\",\"userId\":null,\"boardId\":null,\"columnId\":null}","timestamp":"2020-04-26T23:07:12.302Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /users params: {} body: {}","timestamp":"2020-04-26T23:07:12.305Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/undefined/tasks params: {} body: {}","timestamp":"2020-04-26T23:07:12.309Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /login params: {} body: {\"login\":\"admin\",\"password\":\"admin\"}","timestamp":"2020-04-26T23:07:12.313Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined login is not a function","timestamp":"2020-04-26T23:07:12.314Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /users params: {} body: {\"name\":\"TEST_USER\",\"login\":\"test_user\",\"password\":\"T35t_P@55w0rd\"}","timestamp":"2020-04-26T23:07:12.316Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/undefined/tasks params: {} body: {}","timestamp":"2020-04-26T23:07:12.322Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /users params: {} body: {\"name\":\"TEST_USER\",\"login\":\"test_user\",\"password\":\"T35t_P@55w0rd\"}","timestamp":"2020-04-26T23:07:12.324Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards params: {} body: {\"title\":\"Autotest board\",\"columns\":[{\"title\":\"Backlog\",\"order\":1},{\"title\":\"Sprint\",\"order\":2}]}","timestamp":"2020-04-26T23:07:12.326Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/undefined/tasks params: {} body: {\"title\":\"Autotest task\",\"order\":0,\"description\":\"Lorem ipsum\",\"userId\":null,\"boardId\":null,\"columnId\":null}","timestamp":"2020-04-26T23:07:12.328Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /users params: {} body: {\"name\":\"TEST_USER\",\"login\":\"test_user\",\"password\":\"T35t_P@55w0rd\"}","timestamp":"2020-04-26T23:07:12.330Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards params: {} body: {}","timestamp":"2020-04-26T23:07:12.332Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/undefined/tasks params: {} body: {\"title\":\"Autotest task\",\"order\":0,\"description\":\"Lorem ipsum\",\"userId\":null,\"boardId\":null,\"columnId\":null}","timestamp":"2020-04-26T23:07:12.334Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /users/undefined params: {} body: {\"name\":\"Autotest updated TEST_USER\",\"login\":\"test_user\",\"password\":\"T35t_P@55w0rd\"}","timestamp":"2020-04-26T23:07:12.337Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/undefined/tasks/undefined params: {} body: {\"message\":\"Unautorized\",\"title\":\"Autotest updated task\"}","timestamp":"2020-04-26T23:07:12.342Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards params: {} body: {}","timestamp":"2020-04-26T23:07:12.344Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /users params: {} body: {\"name\":\"TEST_USER\",\"login\":\"test_user\",\"password\":\"T35t_P@55w0rd\"}","timestamp":"2020-04-26T23:07:12.346Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/undefined/tasks/undefined params: {} body: {}","timestamp":"2020-04-26T23:07:12.347Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards params: {} body: {\"title\":\"Autotest board\",\"columns\":[{\"title\":\"Backlog\",\"order\":1},{\"title\":\"Sprint\",\"order\":2}]}","timestamp":"2020-04-26T23:07:12.350Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /users/undefined params: {} body: {}","timestamp":"2020-04-26T23:07:12.351Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/undefined params: {} body: {}","timestamp":"2020-04-26T23:07:12.353Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards params: {} body: {\"title\":\"Autotest board\",\"columns\":[{\"title\":\"Backlog\",\"order\":1},{\"title\":\"Sprint\",\"order\":2}]}","timestamp":"2020-04-26T23:07:12.356Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/undefined params: {} body: {\"message\":\"Unautorized\",\"title\":\"Autotest updated board\"}","timestamp":"2020-04-26T23:07:12.360Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /users params: {} body: {\"name\":\"TEST_USER\",\"login\":\"test_user\",\"password\":\"T35t_P@55w0rd\"}","timestamp":"2020-04-26T23:07:12.363Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards params: {} body: {\"title\":\"Autotest board\",\"columns\":[{\"title\":\"Backlog\",\"order\":1},{\"title\":\"Sprint\",\"order\":2}]}","timestamp":"2020-04-26T23:07:12.365Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards params: {} body: {\"title\":\"Autotest board\",\"columns\":[{\"title\":\"Backlog\",\"order\":1},{\"title\":\"Sprint\",\"order\":2}]}","timestamp":"2020-04-26T23:07:12.370Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/undefined params: {} body: {}","timestamp":"2020-04-26T23:07:12.377Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards params: {} body: {}","timestamp":"2020-04-26T23:07:12.704Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T23:07:12.714Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/12345 params: {} body: {}","timestamp":"2020-04-26T23:07:12.718Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T23:07:12.719Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/12345/tasks params: {} body: {}","timestamp":"2020-04-26T23:07:12.732Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T23:07:12.733Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards params: {} body: {\"title\":\"Autotest board\",\"columns\":[{\"title\":\"Backlog\",\"order\":1},{\"title\":\"Sprint\",\"order\":2}]}","timestamp":"2020-04-26T23:07:12.735Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T23:07:12.741Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/12345/tasks/12345 params: {} body: {}","timestamp":"2020-04-26T23:07:12.743Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T23:07:12.743Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/12345 params: {} body: {\"title\":\"Autotest board\",\"columns\":[{\"title\":\"Backlog\",\"order\":1},{\"title\":\"Sprint\",\"order\":2}]}","timestamp":"2020-04-26T23:07:12.745Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T23:07:12.746Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/12345/tasks params: {} body: {\"title\":\"Autotest task\",\"order\":0,\"description\":\"Lorem ipsum\",\"userId\":null,\"boardId\":null,\"columnId\":null}","timestamp":"2020-04-26T23:07:12.748Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T23:07:12.754Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/12345 params: {} body: {}","timestamp":"2020-04-26T23:07:12.755Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T23:07:12.756Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/12345/tasks/12345 params: {} body: {\"title\":\"Autotest task\",\"order\":0,\"description\":\"Lorem ipsum\",\"userId\":null,\"boardId\":null,\"columnId\":null}","timestamp":"2020-04-26T23:07:12.758Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T23:07:12.759Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/12345/tasks/12345 params: {} body: {}","timestamp":"2020-04-26T23:07:12.762Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T23:07:12.763Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /users params: {} body: {}","timestamp":"2020-04-26T23:07:12.770Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T23:07:12.777Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /users/123 params: {} body: {}","timestamp":"2020-04-26T23:07:12.781Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T23:07:12.782Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /users params: {} body: {\"name\":\"TEST_USER\",\"login\":\"test_user\",\"password\":\"T35t_P@55w0rd\"}","timestamp":"2020-04-26T23:07:12.784Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T23:07:12.785Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /users/12345 params: {} body: {\"name\":\"TEST_USER\",\"login\":\"test_user\",\"password\":\"T35t_P@55w0rd\"}","timestamp":"2020-04-26T23:07:12.789Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T23:07:12.795Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /users/12345 params: {} body: {}","timestamp":"2020-04-26T23:07:12.798Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T23:07:12.799Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   Unhandled rejection detected: Cannot create collection test.tasks - database is in the process of being dropped.","timestamp":"2020-04-26T23:08:06.141Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /login params: {} body: {\"login\":\"admin\",\"password\":\"admin\"}","timestamp":"2020-04-26T23:08:33.963Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /login params: {} body: {\"login\":\"admin\",\"password\":\"admin\"}","timestamp":"2020-04-26T23:08:33.983Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /login params: {} body: {\"login\":\"admin\",\"password\":\"admin\"}","timestamp":"2020-04-26T23:08:33.986Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards params: {} body: {\"title\":\"Autotest board\",\"columns\":[{\"title\":\"Backlog\",\"order\":1},{\"title\":\"Sprint\",\"order\":2}]}","timestamp":"2020-04-26T23:08:34.237Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards params: {} body: {\"title\":\"Autotest board\",\"columns\":[{\"title\":\"Backlog\",\"order\":1},{\"title\":\"Sprint\",\"order\":2}]}","timestamp":"2020-04-26T23:08:34.249Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /users params: {} body: {}","timestamp":"2020-04-26T23:08:34.253Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /users params: {} body: {\"name\":\"TEST_USER\",\"login\":\"test_user\",\"password\":\"T35t_P@55w0rd\"}","timestamp":"2020-04-26T23:08:34.321Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/81cf0abd-c155-4663-ae6e-6cbd7657d80d/tasks params: {} body: {\"title\":\"Autotest task\",\"order\":0,\"description\":\"Lorem ipsum\",\"userId\":null,\"boardId\":null,\"columnId\":null}","timestamp":"2020-04-26T23:08:34.336Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards params: {} body: {}","timestamp":"2020-04-26T23:08:34.345Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/81cf0abd-c155-4663-ae6e-6cbd7657d80d/tasks params: {} body: {}","timestamp":"2020-04-26T23:08:34.428Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards params: {} body: {}","timestamp":"2020-04-26T23:08:34.438Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/acb4dc4d-0259-4bab-84fd-b98b3e0138bf params: {} body: {}","timestamp":"2020-04-26T23:08:34.509Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /users/eee3eb71-96d4-4cca-8d97-00a0042dab81 params: {} body: {}","timestamp":"2020-04-26T23:08:34.522Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/81cf0abd-c155-4663-ae6e-6cbd7657d80d/tasks params: {} body: {}","timestamp":"2020-04-26T23:08:34.527Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards params: {} body: {\"title\":\"Autotest board\",\"columns\":[{\"title\":\"Backlog\",\"order\":1},{\"title\":\"Sprint\",\"order\":2}]}","timestamp":"2020-04-26T23:08:34.585Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /users/eee3eb71-96d4-4cca-8d97-00a0042dab81 params: {} body: {}","timestamp":"2020-04-26T23:08:34.590Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/81cf0abd-c155-4663-ae6e-6cbd7657d80d/tasks/dbb86e45-3105-456b-9785-8b6a26024b8b params: {} body: {}","timestamp":"2020-04-26T23:08:34.618Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/35761105-eaeb-42e6-a6a0-ab2d359577a9 params: {} body: {}","timestamp":"2020-04-26T23:08:34.669Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards params: {} body: {\"title\":\"Autotest board\",\"columns\":[{\"title\":\"Backlog\",\"order\":1},{\"title\":\"Sprint\",\"order\":2}]}","timestamp":"2020-04-26T23:08:34.676Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /users params: {} body: {\"name\":\"TEST_USER\",\"login\":\"test_user\",\"password\":\"T35t_P@55w0rd\"}","timestamp":"2020-04-26T23:08:34.688Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/81cf0abd-c155-4663-ae6e-6cbd7657d80d/tasks params: {} body: {\"title\":\"Autotest task\",\"order\":0,\"description\":\"Lorem ipsum\",\"userId\":null,\"boardId\":null,\"columnId\":null}","timestamp":"2020-04-26T23:08:34.692Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/7a5d0579-6c37-4d31-ae02-461c22b03aff params: {} body: {\"id\":\"7a5d0579-6c37-4d31-ae02-461c22b03aff\",\"title\":\"Autotest updated board\",\"columns\":[{\"title\":\"Backlog\",\"order\":1,\"_id\":\"77084773-0596-44e8-9902-458a56fc3bc3\"},{\"title\":\"Sprint\",\"order\":2,\"_id\":\"e8037fc6-938a-42c2-9351-6d767e99e772\"}]}","timestamp":"2020-04-26T23:08:34.755Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/81cf0abd-c155-4663-ae6e-6cbd7657d80d/tasks/2d66b8b6-08b9-4a7a-b09b-a6fe4bd23f1a params: {} body: {}","timestamp":"2020-04-26T23:08:34.765Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/7a5d0579-6c37-4d31-ae02-461c22b03aff params: {} body: {}","timestamp":"2020-04-26T23:08:34.822Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/81cf0abd-c155-4663-ae6e-6cbd7657d80d/tasks params: {} body: {\"title\":\"Autotest task\",\"order\":0,\"description\":\"Lorem ipsum\",\"userId\":null,\"boardId\":null,\"columnId\":null}","timestamp":"2020-04-26T23:08:34.828Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /users/ffacfb60-1c6d-4110-9ea0-886aa79d7e8c params: {} body: {}","timestamp":"2020-04-26T23:08:34.840Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/7a5d0579-6c37-4d31-ae02-461c22b03aff params: {} body: {}","timestamp":"2020-04-26T23:08:34.895Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/81cf0abd-c155-4663-ae6e-6cbd7657d80d/tasks/30cc02f0-b094-4d8d-b6ac-9fd32f32ad2f params: {} body: {\"id\":\"30cc02f0-b094-4d8d-b6ac-9fd32f32ad2f\",\"title\":\"Autotest updated task\",\"order\":0,\"description\":\"Lorem ipsum\",\"userId\":null,\"boardId\":\"81cf0abd-c155-4663-ae6e-6cbd7657d80d\",\"columnId\":null}","timestamp":"2020-04-26T23:08:34.899Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards params: {} body: {\"title\":\"Autotest board\",\"columns\":[{\"title\":\"Backlog\",\"order\":1},{\"title\":\"Sprint\",\"order\":2}]}","timestamp":"2020-04-26T23:08:34.902Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /users params: {} body: {\"name\":\"TEST_USER\",\"login\":\"test_user\",\"password\":\"T35t_P@55w0rd\"}","timestamp":"2020-04-26T23:08:34.919Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/81cf0abd-c155-4663-ae6e-6cbd7657d80d/tasks/30cc02f0-b094-4d8d-b6ac-9fd32f32ad2f params: {} body: {}","timestamp":"2020-04-26T23:08:34.968Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/c59ee506-0833-4692-81cc-f4325b142768 params: {} body: {}","timestamp":"2020-04-26T23:08:34.976Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/c59ee506-0833-4692-81cc-f4325b142768 params: {} body: {}","timestamp":"2020-04-26T23:08:34.979Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/81cf0abd-c155-4663-ae6e-6cbd7657d80d/tasks/dbb86e45-3105-456b-9785-8b6a26024b8b params: {} body: {}","timestamp":"2020-04-26T23:08:35.027Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 404 Board not found","timestamp":"2020-04-26T23:08:35.038Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards params: {} body: {\"title\":\"Autotest board\",\"columns\":[{\"title\":\"Backlog\",\"order\":1},{\"title\":\"Sprint\",\"order\":2}]}","timestamp":"2020-04-26T23:08:35.041Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /users/1376abe8-900e-4b84-bc0d-ab634920b327 params: {} body: {\"name\":\"Autotest updated TEST_USER\",\"login\":\"test_user\",\"password\":\"T35t_P@55w0rd\",\"id\":\"1376abe8-900e-4b84-bc0d-ab634920b327\"}","timestamp":"2020-04-26T23:08:35.060Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/81cf0abd-c155-4663-ae6e-6cbd7657d80d/tasks/dbb86e45-3105-456b-9785-8b6a26024b8b params: {} body: {}","timestamp":"2020-04-26T23:08:35.083Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/42d35445-e9f7-4cc6-a216-dde2e743026e/tasks params: {} body: {\"title\":\"Task #1\",\"order\":1,\"description\":\"Lorem ipsum\",\"boardId\":\"42d35445-e9f7-4cc6-a216-dde2e743026e\",\"userId\":null,\"columnId\":null}","timestamp":"2020-04-26T23:08:35.117Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/42d35445-e9f7-4cc6-a216-dde2e743026e/tasks params: {} body: {\"title\":\"Task #2\",\"order\":2,\"description\":\"Lorem ipsum\",\"boardId\":\"42d35445-e9f7-4cc6-a216-dde2e743026e\",\"userId\":null,\"columnId\":null}","timestamp":"2020-04-26T23:08:35.120Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/42d35445-e9f7-4cc6-a216-dde2e743026e/tasks params: {} body: {\"title\":\"Task #3\",\"order\":3,\"description\":\"Lorem ipsum\",\"boardId\":\"42d35445-e9f7-4cc6-a216-dde2e743026e\",\"userId\":null,\"columnId\":null}","timestamp":"2020-04-26T23:08:35.123Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/42d35445-e9f7-4cc6-a216-dde2e743026e/tasks params: {} body: {\"title\":\"Task #5\",\"order\":5,\"description\":\"Lorem ipsum\",\"boardId\":\"42d35445-e9f7-4cc6-a216-dde2e743026e\",\"userId\":null,\"columnId\":null}","timestamp":"2020-04-26T23:08:35.126Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/42d35445-e9f7-4cc6-a216-dde2e743026e/tasks params: {} body: {\"title\":\"Task #4\",\"order\":4,\"description\":\"Lorem ipsum\",\"boardId\":\"42d35445-e9f7-4cc6-a216-dde2e743026e\",\"userId\":null,\"columnId\":null}","timestamp":"2020-04-26T23:08:35.129Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /users/1376abe8-900e-4b84-bc0d-ab634920b327 params: {} body: {}","timestamp":"2020-04-26T23:08:35.137Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/81cf0abd-c155-4663-ae6e-6cbd7657d80d/tasks/dbb86e45-3105-456b-9785-8b6a26024b8b params: {} body: {}","timestamp":"2020-04-26T23:08:35.149Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/42d35445-e9f7-4cc6-a216-dde2e743026e/tasks/658eb824-fd1e-47be-81e7-25efdd2d9fec params: {} body: {}","timestamp":"2020-04-26T23:08:35.232Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/42d35445-e9f7-4cc6-a216-dde2e743026e/tasks/1633e7c2-4cb2-4426-9f87-4053f804b0c8 params: {} body: {}","timestamp":"2020-04-26T23:08:35.234Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/42d35445-e9f7-4cc6-a216-dde2e743026e/tasks/52cb614b-4786-456a-9d02-b96218a14d22 params: {} body: {}","timestamp":"2020-04-26T23:08:35.236Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/42d35445-e9f7-4cc6-a216-dde2e743026e/tasks/c8801ea4-4457-4063-a68c-99fbb73af747 params: {} body: {}","timestamp":"2020-04-26T23:08:35.238Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/42d35445-e9f7-4cc6-a216-dde2e743026e/tasks/56a6fc96-da1a-4936-8eda-2b92ca15d317 params: {} body: {}","timestamp":"2020-04-26T23:08:35.239Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 404 Task not found","timestamp":"2020-04-26T23:08:35.244Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /users/1376abe8-900e-4b84-bc0d-ab634920b327 params: {} body: {}","timestamp":"2020-04-26T23:08:35.245Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/81cf0abd-c155-4663-ae6e-6cbd7657d80d params: {} body: {}","timestamp":"2020-04-26T23:08:35.247Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/42d35445-e9f7-4cc6-a216-dde2e743026e params: {} body: {}","timestamp":"2020-04-26T23:08:35.326Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/42d35445-e9f7-4cc6-a216-dde2e743026e/tasks/658eb824-fd1e-47be-81e7-25efdd2d9fec params: {} body: {}","timestamp":"2020-04-26T23:08:35.332Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/42d35445-e9f7-4cc6-a216-dde2e743026e/tasks/1633e7c2-4cb2-4426-9f87-4053f804b0c8 params: {} body: {}","timestamp":"2020-04-26T23:08:35.333Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/42d35445-e9f7-4cc6-a216-dde2e743026e/tasks/52cb614b-4786-456a-9d02-b96218a14d22 params: {} body: {}","timestamp":"2020-04-26T23:08:35.335Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/42d35445-e9f7-4cc6-a216-dde2e743026e/tasks/c8801ea4-4457-4063-a68c-99fbb73af747 params: {} body: {}","timestamp":"2020-04-26T23:08:35.337Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/42d35445-e9f7-4cc6-a216-dde2e743026e/tasks/56a6fc96-da1a-4936-8eda-2b92ca15d317 params: {} body: {}","timestamp":"2020-04-26T23:08:35.339Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /users params: {} body: {\"name\":\"TEST_USER\",\"login\":\"test_user\",\"password\":\"T35t_P@55w0rd\"}","timestamp":"2020-04-26T23:08:35.401Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 404 Task not found","timestamp":"2020-04-26T23:08:35.453Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/b93d65b5-8aba-4dcb-a7be-aba083d93a94 params: {} body: {}","timestamp":"2020-04-26T23:08:35.456Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 404 Task not found","timestamp":"2020-04-26T23:08:35.486Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 404 Task not found","timestamp":"2020-04-26T23:08:35.490Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 404 Task not found","timestamp":"2020-04-26T23:08:35.507Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards params: {} body: {}","timestamp":"2020-04-26T23:08:35.512Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T23:08:35.519Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/12345 params: {} body: {}","timestamp":"2020-04-26T23:08:35.523Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T23:08:35.524Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards params: {} body: {\"title\":\"Autotest board\",\"columns\":[{\"title\":\"Backlog\",\"order\":1},{\"title\":\"Sprint\",\"order\":2}]}","timestamp":"2020-04-26T23:08:35.528Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T23:08:35.529Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/12345 params: {} body: {\"title\":\"Autotest board\",\"columns\":[{\"title\":\"Backlog\",\"order\":1},{\"title\":\"Sprint\",\"order\":2}]}","timestamp":"2020-04-26T23:08:35.533Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T23:08:35.534Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/12345 params: {} body: {}","timestamp":"2020-04-26T23:08:35.537Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T23:08:35.537Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /users/efb57da4-f6a3-4756-9db0-73a6847c47dc params: {} body: {}","timestamp":"2020-04-26T23:08:35.547Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /users params: {} body: {\"name\":\"TEST_USER\",\"login\":\"test_user\",\"password\":\"T35t_P@55w0rd\"}","timestamp":"2020-04-26T23:08:35.628Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/12345/tasks params: {} body: {}","timestamp":"2020-04-26T23:08:35.733Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T23:08:35.735Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/12345/tasks/12345 params: {} body: {}","timestamp":"2020-04-26T23:08:35.738Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T23:08:35.739Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/12345/tasks params: {} body: {\"title\":\"Autotest task\",\"order\":0,\"description\":\"Lorem ipsum\",\"userId\":null,\"boardId\":null,\"columnId\":null}","timestamp":"2020-04-26T23:08:35.743Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T23:08:35.744Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/12345/tasks/12345 params: {} body: {\"title\":\"Autotest task\",\"order\":0,\"description\":\"Lorem ipsum\",\"userId\":null,\"boardId\":null,\"columnId\":null}","timestamp":"2020-04-26T23:08:35.747Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T23:08:35.748Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/12345/tasks/12345 params: {} body: {}","timestamp":"2020-04-26T23:08:35.754Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T23:08:35.755Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards params: {} body: {\"title\":\"Autotest board\",\"columns\":[{\"title\":\"Backlog\",\"order\":1},{\"title\":\"Sprint\",\"order\":2}]}","timestamp":"2020-04-26T23:08:35.760Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /users params: {} body: {}","timestamp":"2020-04-26T23:08:35.787Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T23:08:35.788Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /users/123 params: {} body: {}","timestamp":"2020-04-26T23:08:35.790Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T23:08:35.791Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /users params: {} body: {\"name\":\"TEST_USER\",\"login\":\"test_user\",\"password\":\"T35t_P@55w0rd\"}","timestamp":"2020-04-26T23:08:35.803Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T23:08:35.804Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /users/12345 params: {} body: {\"name\":\"TEST_USER\",\"login\":\"test_user\",\"password\":\"T35t_P@55w0rd\"}","timestamp":"2020-04-26T23:08:35.806Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T23:08:35.807Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /users/12345 params: {} body: {}","timestamp":"2020-04-26T23:08:35.810Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T23:08:35.811Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/e45ae4be-a692-40da-9da6-040706f5eba3/tasks params: {} body: {\"title\":\"Task #1\",\"order\":1,\"description\":\"Lorem ipsum\",\"userId\":\"d99ad18e-2cc4-4561-9dad-52f2a83da466\",\"boardId\":\"e45ae4be-a692-40da-9da6-040706f5eba3\"}","timestamp":"2020-04-26T23:08:35.832Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/e45ae4be-a692-40da-9da6-040706f5eba3/tasks params: {} body: {\"title\":\"Task #2\",\"order\":2,\"description\":\"Lorem ipsum\",\"userId\":\"d99ad18e-2cc4-4561-9dad-52f2a83da466\",\"boardId\":\"e45ae4be-a692-40da-9da6-040706f5eba3\"}","timestamp":"2020-04-26T23:08:35.836Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /users/d99ad18e-2cc4-4561-9dad-52f2a83da466 params: {} body: {}","timestamp":"2020-04-26T23:08:36.111Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/e45ae4be-a692-40da-9da6-040706f5eba3/tasks/525f7591-01bf-407a-8869-826ae82b7eb7 params: {} body: {}","timestamp":"2020-04-26T23:08:36.190Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/e45ae4be-a692-40da-9da6-040706f5eba3/tasks/9a41e378-d5fc-4088-9ed9-93a635b1b63f params: {} body: {}","timestamp":"2020-04-26T23:08:36.257Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/e45ae4be-a692-40da-9da6-040706f5eba3/tasks/525f7591-01bf-407a-8869-826ae82b7eb7 params: {} body: {}","timestamp":"2020-04-26T23:08:36.317Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/e45ae4be-a692-40da-9da6-040706f5eba3/tasks/9a41e378-d5fc-4088-9ed9-93a635b1b63f params: {} body: {}","timestamp":"2020-04-26T23:08:36.319Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/e45ae4be-a692-40da-9da6-040706f5eba3 params: {} body: {}","timestamp":"2020-04-26T23:08:36.392Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /login params: {} body: {\"login\":\"admin\",\"password\":\"admin\"}","timestamp":"2020-04-26T23:10:26.270Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /login params: {} body: {\"login\":\"admin\",\"password\":\"admin\"}","timestamp":"2020-04-26T23:10:26.296Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /login params: {} body: {\"login\":\"admin\",\"password\":\"admin\"}","timestamp":"2020-04-26T23:10:26.302Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards params: {} body: {\"title\":\"Autotest board\",\"columns\":[{\"title\":\"Backlog\",\"order\":1},{\"title\":\"Sprint\",\"order\":2}]}","timestamp":"2020-04-26T23:10:26.456Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /users params: {} body: {}","timestamp":"2020-04-26T23:10:26.461Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards params: {} body: {\"title\":\"Autotest board\",\"columns\":[{\"title\":\"Backlog\",\"order\":1},{\"title\":\"Sprint\",\"order\":2}]}","timestamp":"2020-04-26T23:10:26.464Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/c9d9c91c-2037-48e1-9d6e-2125cd239209/tasks params: {} body: {\"title\":\"Autotest task\",\"order\":0,\"description\":\"Lorem ipsum\",\"userId\":null,\"boardId\":null,\"columnId\":null}","timestamp":"2020-04-26T23:10:26.541Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards params: {} body: {}","timestamp":"2020-04-26T23:10:26.550Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /users params: {} body: {\"name\":\"TEST_USER\",\"login\":\"test_user\",\"password\":\"T35t_P@55w0rd\"}","timestamp":"2020-04-26T23:10:26.562Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/c9d9c91c-2037-48e1-9d6e-2125cd239209/tasks params: {} body: {}","timestamp":"2020-04-26T23:10:26.611Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards params: {} body: {}","timestamp":"2020-04-26T23:10:26.634Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/c9d9c91c-2037-48e1-9d6e-2125cd239209/tasks params: {} body: {}","timestamp":"2020-04-26T23:10:26.685Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/d26d354b-03b3-4278-afdd-26ef0630fdf8 params: {} body: {}","timestamp":"2020-04-26T23:10:26.703Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /users/f1723cb2-af47-4f1b-aa6e-da76d6438706 params: {} body: {}","timestamp":"2020-04-26T23:10:26.707Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/c9d9c91c-2037-48e1-9d6e-2125cd239209/tasks/29331373-5508-4003-a508-e49d32376553 params: {} body: {}","timestamp":"2020-04-26T23:10:26.745Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards params: {} body: {\"title\":\"Autotest board\",\"columns\":[{\"title\":\"Backlog\",\"order\":1},{\"title\":\"Sprint\",\"order\":2}]}","timestamp":"2020-04-26T23:10:26.767Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /users/f1723cb2-af47-4f1b-aa6e-da76d6438706 params: {} body: {}","timestamp":"2020-04-26T23:10:26.773Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/c9d9c91c-2037-48e1-9d6e-2125cd239209/tasks params: {} body: {\"title\":\"Autotest task\",\"order\":0,\"description\":\"Lorem ipsum\",\"userId\":null,\"boardId\":null,\"columnId\":null}","timestamp":"2020-04-26T23:10:26.823Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/5a77148b-a8d1-49de-8382-f42e5de1e7a2 params: {} body: {}","timestamp":"2020-04-26T23:10:26.840Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /users params: {} body: {\"name\":\"TEST_USER\",\"login\":\"test_user\",\"password\":\"T35t_P@55w0rd\"}","timestamp":"2020-04-26T23:10:26.856Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/c9d9c91c-2037-48e1-9d6e-2125cd239209/tasks/2c56fdb9-7dea-478a-805c-b148e16dccba params: {} body: {}","timestamp":"2020-04-26T23:10:26.892Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards params: {} body: {\"title\":\"Autotest board\",\"columns\":[{\"title\":\"Backlog\",\"order\":1},{\"title\":\"Sprint\",\"order\":2}]}","timestamp":"2020-04-26T23:10:26.908Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/c9d9c91c-2037-48e1-9d6e-2125cd239209/tasks params: {} body: {\"title\":\"Autotest task\",\"order\":0,\"description\":\"Lorem ipsum\",\"userId\":null,\"boardId\":null,\"columnId\":null}","timestamp":"2020-04-26T23:10:26.953Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/90855961-1d80-45b0-ba86-30f2d1e14b1f params: {} body: {\"id\":\"90855961-1d80-45b0-ba86-30f2d1e14b1f\",\"title\":\"Autotest updated board\",\"columns\":[{\"title\":\"Backlog\",\"order\":1,\"_id\":\"24bdd0ba-ad06-48bf-b32f-a15c77707136\"},{\"title\":\"Sprint\",\"order\":2,\"_id\":\"1adb0b33-da7b-4012-9536-bf7503dd9b87\"}]}","timestamp":"2020-04-26T23:10:26.974Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /users/53badd62-b78c-4913-8af7-c394cce78baf params: {} body: {}","timestamp":"2020-04-26T23:10:27.009Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/c9d9c91c-2037-48e1-9d6e-2125cd239209/tasks/e53fbe27-01a9-4896-88e3-cf9aaa61bc29 params: {} body: {\"id\":\"e53fbe27-01a9-4896-88e3-cf9aaa61bc29\",\"title\":\"Autotest updated task\",\"order\":0,\"description\":\"Lorem ipsum\",\"userId\":null,\"boardId\":\"c9d9c91c-2037-48e1-9d6e-2125cd239209\",\"columnId\":null}","timestamp":"2020-04-26T23:10:27.018Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/90855961-1d80-45b0-ba86-30f2d1e14b1f params: {} body: {}","timestamp":"2020-04-26T23:10:27.041Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/c9d9c91c-2037-48e1-9d6e-2125cd239209/tasks/e53fbe27-01a9-4896-88e3-cf9aaa61bc29 params: {} body: {}","timestamp":"2020-04-26T23:10:27.086Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /users params: {} body: {\"name\":\"TEST_USER\",\"login\":\"test_user\",\"password\":\"T35t_P@55w0rd\"}","timestamp":"2020-04-26T23:10:27.100Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/90855961-1d80-45b0-ba86-30f2d1e14b1f params: {} body: {}","timestamp":"2020-04-26T23:10:27.113Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/c9d9c91c-2037-48e1-9d6e-2125cd239209/tasks/29331373-5508-4003-a508-e49d32376553 params: {} body: {}","timestamp":"2020-04-26T23:10:27.152Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards params: {} body: {\"title\":\"Autotest board\",\"columns\":[{\"title\":\"Backlog\",\"order\":1},{\"title\":\"Sprint\",\"order\":2}]}","timestamp":"2020-04-26T23:10:27.176Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/c9d9c91c-2037-48e1-9d6e-2125cd239209/tasks/29331373-5508-4003-a508-e49d32376553 params: {} body: {}","timestamp":"2020-04-26T23:10:27.213Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/3959b1d6-32e1-4f80-bc58-0d5aaa0a693b params: {} body: {}","timestamp":"2020-04-26T23:10:27.246Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /users/0d94a839-c9ce-491b-87d0-ea41123900a0 params: {} body: {\"name\":\"Autotest updated TEST_USER\",\"login\":\"test_user\",\"password\":\"T35t_P@55w0rd\",\"id\":\"0d94a839-c9ce-491b-87d0-ea41123900a0\"}","timestamp":"2020-04-26T23:10:27.257Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/c9d9c91c-2037-48e1-9d6e-2125cd239209/tasks/29331373-5508-4003-a508-e49d32376553 params: {} body: {}","timestamp":"2020-04-26T23:10:27.274Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/3959b1d6-32e1-4f80-bc58-0d5aaa0a693b params: {} body: {}","timestamp":"2020-04-26T23:10:27.310Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /users/0d94a839-c9ce-491b-87d0-ea41123900a0 params: {} body: {}","timestamp":"2020-04-26T23:10:27.331Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 404 Task not found","timestamp":"2020-04-26T23:10:27.349Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/c9d9c91c-2037-48e1-9d6e-2125cd239209 params: {} body: {}","timestamp":"2020-04-26T23:10:27.355Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 404 Board not found","timestamp":"2020-04-26T23:10:27.370Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards params: {} body: {\"title\":\"Autotest board\",\"columns\":[{\"title\":\"Backlog\",\"order\":1},{\"title\":\"Sprint\",\"order\":2}]}","timestamp":"2020-04-26T23:10:27.377Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /users/0d94a839-c9ce-491b-87d0-ea41123900a0 params: {} body: {}","timestamp":"2020-04-26T23:10:27.400Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/af5e05e2-15f7-4f96-9877-8d5c11bfaf52/tasks params: {} body: {\"title\":\"Task #1\",\"order\":1,\"description\":\"Lorem ipsum\",\"boardId\":\"af5e05e2-15f7-4f96-9877-8d5c11bfaf52\",\"userId\":null,\"columnId\":null}","timestamp":"2020-04-26T23:10:27.456Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/af5e05e2-15f7-4f96-9877-8d5c11bfaf52/tasks params: {} body: {\"title\":\"Task #2\",\"order\":2,\"description\":\"Lorem ipsum\",\"boardId\":\"af5e05e2-15f7-4f96-9877-8d5c11bfaf52\",\"userId\":null,\"columnId\":null}","timestamp":"2020-04-26T23:10:27.473Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/af5e05e2-15f7-4f96-9877-8d5c11bfaf52/tasks params: {} body: {\"title\":\"Task #3\",\"order\":3,\"description\":\"Lorem ipsum\",\"boardId\":\"af5e05e2-15f7-4f96-9877-8d5c11bfaf52\",\"userId\":null,\"columnId\":null}","timestamp":"2020-04-26T23:10:27.477Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/af5e05e2-15f7-4f96-9877-8d5c11bfaf52/tasks params: {} body: {\"title\":\"Task #4\",\"order\":4,\"description\":\"Lorem ipsum\",\"boardId\":\"af5e05e2-15f7-4f96-9877-8d5c11bfaf52\",\"userId\":null,\"columnId\":null}","timestamp":"2020-04-26T23:10:27.480Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/af5e05e2-15f7-4f96-9877-8d5c11bfaf52/tasks params: {} body: {\"title\":\"Task #5\",\"order\":5,\"description\":\"Lorem ipsum\",\"boardId\":\"af5e05e2-15f7-4f96-9877-8d5c11bfaf52\",\"userId\":null,\"columnId\":null}","timestamp":"2020-04-26T23:10:27.483Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /users params: {} body: {\"name\":\"TEST_USER\",\"login\":\"test_user\",\"password\":\"T35t_P@55w0rd\"}","timestamp":"2020-04-26T23:10:27.490Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/af5e05e2-15f7-4f96-9877-8d5c11bfaf52/tasks/941bca04-b2be-4f87-90ef-b5a27461659d params: {} body: {}","timestamp":"2020-04-26T23:10:27.555Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/af5e05e2-15f7-4f96-9877-8d5c11bfaf52/tasks/a5a12382-a6c1-45aa-a8b4-72c052126075 params: {} body: {}","timestamp":"2020-04-26T23:10:27.561Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/af5e05e2-15f7-4f96-9877-8d5c11bfaf52/tasks/6db63263-093f-471e-86e6-3c9331641fac params: {} body: {}","timestamp":"2020-04-26T23:10:27.562Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/af5e05e2-15f7-4f96-9877-8d5c11bfaf52/tasks/7a765b45-f962-4e53-bf74-97a1af7a03ba params: {} body: {}","timestamp":"2020-04-26T23:10:27.564Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/af5e05e2-15f7-4f96-9877-8d5c11bfaf52/tasks/f8d790e0-8404-4a3c-8d3a-2b43200c7fd8 params: {} body: {}","timestamp":"2020-04-26T23:10:27.566Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/af5e05e2-15f7-4f96-9877-8d5c11bfaf52 params: {} body: {}","timestamp":"2020-04-26T23:10:27.633Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/12345/tasks params: {} body: {}","timestamp":"2020-04-26T23:10:27.651Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T23:10:27.651Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/12345/tasks/12345 params: {} body: {}","timestamp":"2020-04-26T23:10:27.658Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T23:10:27.663Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/12345/tasks params: {} body: {\"title\":\"Autotest task\",\"order\":0,\"description\":\"Lorem ipsum\",\"userId\":null,\"boardId\":null,\"columnId\":null}","timestamp":"2020-04-26T23:10:27.666Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T23:10:27.667Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/12345/tasks/12345 params: {} body: {\"title\":\"Autotest task\",\"order\":0,\"description\":\"Lorem ipsum\",\"userId\":null,\"boardId\":null,\"columnId\":null}","timestamp":"2020-04-26T23:10:27.669Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T23:10:27.671Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/12345/tasks/12345 params: {} body: {}","timestamp":"2020-04-26T23:10:27.675Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T23:10:27.675Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /users/4e430944-e6cf-4278-b989-8a932c0d58ed params: {} body: {}","timestamp":"2020-04-26T23:10:27.678Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/af5e05e2-15f7-4f96-9877-8d5c11bfaf52/tasks/941bca04-b2be-4f87-90ef-b5a27461659d params: {} body: {}","timestamp":"2020-04-26T23:10:27.713Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/af5e05e2-15f7-4f96-9877-8d5c11bfaf52/tasks/a5a12382-a6c1-45aa-a8b4-72c052126075 params: {} body: {}","timestamp":"2020-04-26T23:10:27.716Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/af5e05e2-15f7-4f96-9877-8d5c11bfaf52/tasks/6db63263-093f-471e-86e6-3c9331641fac params: {} body: {}","timestamp":"2020-04-26T23:10:27.718Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/af5e05e2-15f7-4f96-9877-8d5c11bfaf52/tasks/7a765b45-f962-4e53-bf74-97a1af7a03ba params: {} body: {}","timestamp":"2020-04-26T23:10:27.720Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/af5e05e2-15f7-4f96-9877-8d5c11bfaf52/tasks/f8d790e0-8404-4a3c-8d3a-2b43200c7fd8 params: {} body: {}","timestamp":"2020-04-26T23:10:27.724Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /users params: {} body: {\"name\":\"TEST_USER\",\"login\":\"test_user\",\"password\":\"T35t_P@55w0rd\"}","timestamp":"2020-04-26T23:10:27.756Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 404 Task not found","timestamp":"2020-04-26T23:10:27.776Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 404 Task not found","timestamp":"2020-04-26T23:10:27.778Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 404 Task not found","timestamp":"2020-04-26T23:10:27.787Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 404 Task not found","timestamp":"2020-04-26T23:10:27.809Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 404 Task not found","timestamp":"2020-04-26T23:10:27.812Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/8b24feb5-1e49-4657-925a-fdb2518a049c params: {} body: {}","timestamp":"2020-04-26T23:10:27.814Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards params: {} body: {}","timestamp":"2020-04-26T23:10:27.861Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T23:10:27.861Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/12345 params: {} body: {}","timestamp":"2020-04-26T23:10:27.863Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T23:10:27.864Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards params: {} body: {\"title\":\"Autotest board\",\"columns\":[{\"title\":\"Backlog\",\"order\":1},{\"title\":\"Sprint\",\"order\":2}]}","timestamp":"2020-04-26T23:10:27.866Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T23:10:27.866Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/12345 params: {} body: {\"title\":\"Autotest board\",\"columns\":[{\"title\":\"Backlog\",\"order\":1},{\"title\":\"Sprint\",\"order\":2}]}","timestamp":"2020-04-26T23:10:27.868Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T23:10:27.869Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/12345 params: {} body: {}","timestamp":"2020-04-26T23:10:27.871Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T23:10:27.877Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards params: {} body: {\"title\":\"Autotest board\",\"columns\":[{\"title\":\"Backlog\",\"order\":1},{\"title\":\"Sprint\",\"order\":2}]}","timestamp":"2020-04-26T23:10:27.893Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/2e8e3a8b-0bc7-4fd8-bb47-dd721684efdc/tasks params: {} body: {\"title\":\"Task #1\",\"order\":1,\"description\":\"Lorem ipsum\",\"userId\":\"1be020de-3d0a-44bf-a34b-d8f9aebdec75\",\"boardId\":\"2e8e3a8b-0bc7-4fd8-bb47-dd721684efdc\"}","timestamp":"2020-04-26T23:10:28.017Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/2e8e3a8b-0bc7-4fd8-bb47-dd721684efdc/tasks params: {} body: {\"title\":\"Task #2\",\"order\":2,\"description\":\"Lorem ipsum\",\"userId\":\"1be020de-3d0a-44bf-a34b-d8f9aebdec75\",\"boardId\":\"2e8e3a8b-0bc7-4fd8-bb47-dd721684efdc\"}","timestamp":"2020-04-26T23:10:28.021Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /users params: {} body: {}","timestamp":"2020-04-26T23:10:28.045Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T23:10:28.046Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /users/123 params: {} body: {}","timestamp":"2020-04-26T23:10:28.048Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T23:10:28.049Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /users params: {} body: {\"name\":\"TEST_USER\",\"login\":\"test_user\",\"password\":\"T35t_P@55w0rd\"}","timestamp":"2020-04-26T23:10:28.051Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T23:10:28.052Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /users/12345 params: {} body: {\"name\":\"TEST_USER\",\"login\":\"test_user\",\"password\":\"T35t_P@55w0rd\"}","timestamp":"2020-04-26T23:10:28.054Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T23:10:28.056Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /users/12345 params: {} body: {}","timestamp":"2020-04-26T23:10:28.059Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T23:10:28.060Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /users/1be020de-3d0a-44bf-a34b-d8f9aebdec75 params: {} body: {}","timestamp":"2020-04-26T23:10:28.082Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/2e8e3a8b-0bc7-4fd8-bb47-dd721684efdc/tasks/e1f183a8-dbff-4e56-88cc-e1248667aa0e params: {} body: {}","timestamp":"2020-04-26T23:10:28.168Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/2e8e3a8b-0bc7-4fd8-bb47-dd721684efdc/tasks/7d3fc66a-bcd0-4283-a249-3bf61a2f17a9 params: {} body: {}","timestamp":"2020-04-26T23:10:28.259Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/2e8e3a8b-0bc7-4fd8-bb47-dd721684efdc/tasks/e1f183a8-dbff-4e56-88cc-e1248667aa0e params: {} body: {}","timestamp":"2020-04-26T23:10:28.331Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/2e8e3a8b-0bc7-4fd8-bb47-dd721684efdc/tasks/7d3fc66a-bcd0-4283-a249-3bf61a2f17a9 params: {} body: {}","timestamp":"2020-04-26T23:10:28.334Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"    url: /boards/2e8e3a8b-0bc7-4fd8-bb47-dd721684efdc params: {} body: {}","timestamp":"2020-04-26T23:10:28.402Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   Unhandled rejection detected: Cannot create collection test.tasks - database is in the process of being dropped.","timestamp":"2020-04-26T23:12:18.759Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   Unhandled rejection detected: Cannot create collection test.tasks - database is in the process of being dropped.","timestamp":"2020-04-26T23:12:18.775Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   Unhandled rejection detected: Cannot create collection test.tasks - database is in the process of being dropped.","timestamp":"2020-04-26T23:12:18.779Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   Unhandled rejection detected: Cannot create collection test.tasks - database is in the process of being dropped.","timestamp":"2020-04-26T23:14:11.668Z"}

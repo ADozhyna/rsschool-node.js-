@@ -10,5 +10,10 @@ exports.users = [
     name: 'Dean Winchester',
     login: 'Dean',
     password: 'password123'
+  }),
+  new User({
+    name: 'user',
+    login: 'admin',
+    password: 'admin'
   })
 ];

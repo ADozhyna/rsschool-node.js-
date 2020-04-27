@@ -8,6 +8,8 @@ const logger = require('./common/winston');
 const { INTERNAL_SERVER_ERROR, getStatusText } = require('http-status-codes');
 const ValidationError = require('./common/validation');
 const createError = require('http-errors');
+const { checkLogin } = require('./common/login');
+const loginRouter = require('./resources/login/login.router');
 
 const app = express();
 const swaggerDocument = YAML.load(path.join(__dirname, '../doc/api.yaml'));
@@ -30,8 +32,9 @@ app.use('/', (req, res, next) => {
   next();
 });
 
-app.use('/users', userRouter);
-app.use('/boards', boardRouter);
+app.use('/users', checkLogin, userRouter);
+app.use('/boards', checkLogin, boardRouter);
+app.use('/login', loginRouter);
 app.use((req, res, next) => {
   next(createError(404, `Not found url: ${req.url}`));
 });
@@ -42,7 +45,7 @@ app.use((error, req, res, next) => {
     res.status(error.status).send(error.text);
     return;
   }
-  if (error.status === 404) {
+  if (error.status === 404 || error.status === 401 || error.status === 403) {
     res.status(error.status).send(error.text);
     return;
   }

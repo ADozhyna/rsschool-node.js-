@@ -9,5 +9,6 @@ const delUser = async id => {
   usersRepo.deleteUser(id);
   await tasksService.nullUser(id);
 };
+const getByLogin = login => usersRepo.getUserByLogin(login);
 
-module.exports = { getAll, getUser, addNewUser, updUser, delUser };
+module.exports = { getAll, getUser, addNewUser, updUser, delUser, getByLogin };

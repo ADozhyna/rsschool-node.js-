@@ -7,3 +7,229 @@
 {"level":"\u001b[31merror\u001b[39m","message":"   error: 404 Task not found","timestamp":"2020-04-20T12:32:15.112Z"}
 {"level":"\u001b[31merror\u001b[39m","message":"   error: 404 Task not found","timestamp":"2020-04-20T12:32:15.121Z"}
 {"level":"\u001b[31merror\u001b[39m","message":"   Unhandled rejection detected: Cannot create collection test.users - database is in the process of being dropped.","timestamp":"2020-04-20T12:33:17.423Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined createError is not a function","timestamp":"2020-04-26T22:46:43.807Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined createError is not a function","timestamp":"2020-04-26T22:46:43.828Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined createError is not a function","timestamp":"2020-04-26T22:46:43.830Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined createError is not a function","timestamp":"2020-04-26T22:46:43.843Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined createError is not a function","timestamp":"2020-04-26T22:46:43.851Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined createError is not a function","timestamp":"2020-04-26T22:46:43.859Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined createError is not a function","timestamp":"2020-04-26T22:46:43.860Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined createError is not a function","timestamp":"2020-04-26T22:46:43.870Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined createError is not a function","timestamp":"2020-04-26T22:46:43.880Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined createError is not a function","timestamp":"2020-04-26T22:46:43.881Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined createError is not a function","timestamp":"2020-04-26T22:46:43.892Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined createError is not a function","timestamp":"2020-04-26T22:46:43.897Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined createError is not a function","timestamp":"2020-04-26T22:46:43.899Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined createError is not a function","timestamp":"2020-04-26T22:46:43.909Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined createError is not a function","timestamp":"2020-04-26T22:46:43.915Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined createError is not a function","timestamp":"2020-04-26T22:46:43.917Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined createError is not a function","timestamp":"2020-04-26T22:46:43.926Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined createError is not a function","timestamp":"2020-04-26T22:46:43.932Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined createError is not a function","timestamp":"2020-04-26T22:46:43.933Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined createError is not a function","timestamp":"2020-04-26T22:46:43.941Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined createError is not a function","timestamp":"2020-04-26T22:46:43.946Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined createError is not a function","timestamp":"2020-04-26T22:46:43.947Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined createError is not a function","timestamp":"2020-04-26T22:46:43.957Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined createError is not a function","timestamp":"2020-04-26T22:46:43.961Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined createError is not a function","timestamp":"2020-04-26T22:46:43.963Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined createError is not a function","timestamp":"2020-04-26T22:46:43.975Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined createError is not a function","timestamp":"2020-04-26T22:47:45.702Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined createError is not a function","timestamp":"2020-04-26T22:47:45.720Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined createError is not a function","timestamp":"2020-04-26T22:47:45.728Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined createError is not a function","timestamp":"2020-04-26T22:47:45.738Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined createError is not a function","timestamp":"2020-04-26T22:47:45.746Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined createError is not a function","timestamp":"2020-04-26T22:47:45.759Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined createError is not a function","timestamp":"2020-04-26T22:47:45.778Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined createError is not a function","timestamp":"2020-04-26T22:47:45.786Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined createError is not a function","timestamp":"2020-04-26T22:47:45.790Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined createError is not a function","timestamp":"2020-04-26T22:47:45.802Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined createError is not a function","timestamp":"2020-04-26T22:47:45.805Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined createError is not a function","timestamp":"2020-04-26T22:47:45.807Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined createError is not a function","timestamp":"2020-04-26T22:47:45.824Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined createError is not a function","timestamp":"2020-04-26T22:47:45.826Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined createError is not a function","timestamp":"2020-04-26T22:47:45.859Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined createError is not a function","timestamp":"2020-04-26T22:47:45.860Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined createError is not a function","timestamp":"2020-04-26T22:47:45.882Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined createError is not a function","timestamp":"2020-04-26T22:47:45.886Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined createError is not a function","timestamp":"2020-04-26T22:47:45.902Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined createError is not a function","timestamp":"2020-04-26T22:47:45.903Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined createError is not a function","timestamp":"2020-04-26T22:47:45.913Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined createError is not a function","timestamp":"2020-04-26T22:47:45.915Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined createError is not a function","timestamp":"2020-04-26T22:47:45.924Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined createError is not a function","timestamp":"2020-04-26T22:47:45.926Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined createError is not a function","timestamp":"2020-04-26T22:47:45.938Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined createError is not a function","timestamp":"2020-04-26T22:47:45.940Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined createError is not a function","timestamp":"2020-04-26T22:48:16.377Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined createError is not a function","timestamp":"2020-04-26T22:48:16.394Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined createError is not a function","timestamp":"2020-04-26T22:48:16.399Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined createError is not a function","timestamp":"2020-04-26T22:48:16.403Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined createError is not a function","timestamp":"2020-04-26T22:48:16.414Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined createError is not a function","timestamp":"2020-04-26T22:48:16.417Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined createError is not a function","timestamp":"2020-04-26T22:48:16.427Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined createError is not a function","timestamp":"2020-04-26T22:48:16.429Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined createError is not a function","timestamp":"2020-04-26T22:48:16.431Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined createError is not a function","timestamp":"2020-04-26T22:48:16.457Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined createError is not a function","timestamp":"2020-04-26T22:48:16.459Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined createError is not a function","timestamp":"2020-04-26T22:48:16.462Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined createError is not a function","timestamp":"2020-04-26T22:48:16.474Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined createError is not a function","timestamp":"2020-04-26T22:48:16.477Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined createError is not a function","timestamp":"2020-04-26T22:48:16.483Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined createError is not a function","timestamp":"2020-04-26T22:48:16.489Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined createError is not a function","timestamp":"2020-04-26T22:48:16.498Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined createError is not a function","timestamp":"2020-04-26T22:48:16.500Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined createError is not a function","timestamp":"2020-04-26T22:48:16.506Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined createError is not a function","timestamp":"2020-04-26T22:48:16.511Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined createError is not a function","timestamp":"2020-04-26T22:48:16.517Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined createError is not a function","timestamp":"2020-04-26T22:48:16.522Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined createError is not a function","timestamp":"2020-04-26T22:48:16.531Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined createError is not a function","timestamp":"2020-04-26T22:48:16.534Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined createError is not a function","timestamp":"2020-04-26T22:48:16.545Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined createError is not a function","timestamp":"2020-04-26T22:48:16.547Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   Unhandled rejection detected: Cannot create collection test.tasks - database is in the process of being dropped.","timestamp":"2020-04-26T22:49:26.784Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T22:49:52.615Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T22:49:52.641Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T22:49:52.644Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T22:49:52.646Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T22:49:52.651Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T22:49:52.654Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T22:49:52.657Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T22:49:52.661Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T22:49:52.664Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T22:49:52.667Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T22:49:52.670Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T22:49:52.673Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T22:49:52.676Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T22:49:52.679Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T22:49:52.681Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T22:49:52.685Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T22:49:52.689Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T22:49:52.692Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T22:49:52.694Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T22:49:52.697Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T22:49:52.699Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T22:49:52.702Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T22:49:52.707Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T22:49:52.710Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T22:49:52.723Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T22:49:52.726Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined login is not a function","timestamp":"2020-04-26T22:50:46.846Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined login is not a function","timestamp":"2020-04-26T22:50:46.854Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined login is not a function","timestamp":"2020-04-26T22:50:46.944Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T22:50:47.368Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T22:50:47.372Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T22:50:47.386Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T22:50:47.391Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T22:50:47.401Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T22:50:47.406Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T22:50:47.409Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T22:50:47.418Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T22:50:47.422Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T22:50:47.426Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T22:50:47.437Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T22:50:47.441Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T22:50:47.449Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T22:50:47.451Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T22:50:47.454Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined login is not a function","timestamp":"2020-04-26T22:52:11.205Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined login is not a function","timestamp":"2020-04-26T22:52:11.214Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined login is not a function","timestamp":"2020-04-26T22:52:11.248Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T22:52:11.592Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T22:52:11.595Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T22:52:11.606Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T22:52:11.610Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T22:52:11.612Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T22:52:11.623Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T22:52:11.625Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T22:52:11.627Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T22:52:11.628Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T22:52:11.632Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T22:52:11.635Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T22:52:11.637Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T22:52:11.638Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T22:52:11.640Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T22:52:11.643Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   Unhandled rejection detected: Cannot create collection test.tasks - database is in the process of being dropped.","timestamp":"2020-04-26T22:53:20.481Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined login is not a function","timestamp":"2020-04-26T22:56:24.194Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined login is not a function","timestamp":"2020-04-26T22:56:24.217Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined login is not a function","timestamp":"2020-04-26T22:56:24.254Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T22:56:24.551Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T22:56:24.554Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T22:56:24.556Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T22:56:24.564Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T22:56:24.567Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T22:56:24.569Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T22:56:24.571Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T22:56:24.574Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T22:56:24.577Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T22:56:24.579Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T22:56:24.600Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T22:56:24.604Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T22:56:24.607Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T22:56:24.611Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T22:56:24.615Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined login is not a function","timestamp":"2020-04-26T23:07:12.276Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined login is not a function","timestamp":"2020-04-26T23:07:12.290Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: undefined login is not a function","timestamp":"2020-04-26T23:07:12.314Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T23:07:12.714Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T23:07:12.719Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T23:07:12.733Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T23:07:12.741Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T23:07:12.743Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T23:07:12.746Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T23:07:12.754Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T23:07:12.756Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T23:07:12.759Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T23:07:12.763Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T23:07:12.777Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T23:07:12.782Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T23:07:12.785Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T23:07:12.795Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T23:07:12.799Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   Unhandled rejection detected: Cannot create collection test.tasks - database is in the process of being dropped.","timestamp":"2020-04-26T23:08:06.141Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 404 Board not found","timestamp":"2020-04-26T23:08:35.038Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 404 Task not found","timestamp":"2020-04-26T23:08:35.244Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 404 Task not found","timestamp":"2020-04-26T23:08:35.453Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 404 Task not found","timestamp":"2020-04-26T23:08:35.486Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 404 Task not found","timestamp":"2020-04-26T23:08:35.490Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 404 Task not found","timestamp":"2020-04-26T23:08:35.507Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T23:08:35.519Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T23:08:35.524Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T23:08:35.529Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T23:08:35.534Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T23:08:35.537Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T23:08:35.735Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T23:08:35.739Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T23:08:35.744Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T23:08:35.748Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T23:08:35.755Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T23:08:35.788Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T23:08:35.791Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T23:08:35.804Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T23:08:35.807Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T23:08:35.811Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 404 Task not found","timestamp":"2020-04-26T23:10:27.349Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 404 Board not found","timestamp":"2020-04-26T23:10:27.370Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T23:10:27.651Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T23:10:27.663Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T23:10:27.667Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T23:10:27.671Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T23:10:27.675Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 404 Task not found","timestamp":"2020-04-26T23:10:27.776Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 404 Task not found","timestamp":"2020-04-26T23:10:27.778Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 404 Task not found","timestamp":"2020-04-26T23:10:27.787Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 404 Task not found","timestamp":"2020-04-26T23:10:27.809Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 404 Task not found","timestamp":"2020-04-26T23:10:27.812Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T23:10:27.861Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T23:10:27.864Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T23:10:27.866Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T23:10:27.869Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T23:10:27.877Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T23:10:28.046Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T23:10:28.049Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T23:10:28.052Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T23:10:28.056Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   error: 401 Unautorized","timestamp":"2020-04-26T23:10:28.060Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   Unhandled rejection detected: Cannot create collection test.tasks - database is in the process of being dropped.","timestamp":"2020-04-26T23:12:18.759Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   Unhandled rejection detected: Cannot create collection test.tasks - database is in the process of being dropped.","timestamp":"2020-04-26T23:12:18.775Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   Unhandled rejection detected: Cannot create collection test.tasks - database is in the process of being dropped.","timestamp":"2020-04-26T23:12:18.779Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"   Unhandled rejection detected: Cannot create collection test.tasks - database is in the process of being dropped.","timestamp":"2020-04-26T23:14:11.668Z"}

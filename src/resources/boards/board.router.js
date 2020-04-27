@@ -5,6 +5,7 @@ const ValidationError = require('../../common/validation');
 const createError = require('http-errors');
 const errorHandler = require('../../common/errors');
 const Board = require('./board.model');
+const { checkLogin } = require('../../common/login');
 
 router.route('/').get(
   errorHandler(async (req, res) => {
@@ -57,6 +58,7 @@ router.use(
     req.boardId = req.params.boardId;
     next();
   },
+  checkLogin,
   taskRoute
 );
 
